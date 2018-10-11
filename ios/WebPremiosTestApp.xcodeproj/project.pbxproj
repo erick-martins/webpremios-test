@@ -28,10 +28,7 @@
 		78B25C3E8FE84A3AAD34DFD8 /* libReactNativeConfig.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B9EC9F05EEB44EFEB805CDCC /* libReactNativeConfig.a */; };
 		832341BD1AAA6AB300B99B32 /* libRCTText.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 832341B51AAA6A8300B99B32 /* libRCTText.a */; };
 		965B9268AE994D0E83975B21 /* libReactNativeLocalization.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 1238402623CA4799977A0D82 /* libReactNativeLocalization.a */; };
-		A9274DB413F740BD96BF3A8C /* libAppCenterReactNativeCrashes.a in Frameworks */ = {isa = PBXBuildFile; fileRef = D79D0D6C17D047BCB8280AC4 /* libAppCenterReactNativeCrashes.a */; };
-		AD1DAB982EA74492B2ECC153 /* libAppCenterReactNative.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 581A20006798443EB228F195 /* libAppCenterReactNative.a */; };
 		ADBDB9381DFEBF1600ED6528 /* libRCTBlob.a in Frameworks */ = {isa = PBXBuildFile; fileRef = ADBDB9271DFEBF0700ED6528 /* libRCTBlob.a */; };
-		B40C3565238749EDBF5746BF /* libAppCenterReactNativeAnalytics.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B735458EB4E44DD2B0FFBF1D /* libAppCenterReactNativeAnalytics.a */; };
 		EE0048D721679D9A00F7F215 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
 		EE0048D821679D9A00F7F215 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
 		EE0048DA21679D9A00F7F215 /* libRCTBlob.a in Frameworks */ = {isa = PBXBuildFile; fileRef = ADBDB9271DFEBF0700ED6528 /* libRCTBlob.a */; };
@@ -53,6 +50,10 @@
 		EE0049742167B11700F7F215 /* WebPremiosLaunch.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EE0049722167AEC300F7F215 /* WebPremiosLaunch.storyboard */; };
 		EE0049762167B15B00F7F215 /* VivoLaunch.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EE0049752167B15B00F7F215 /* VivoLaunch.storyboard */; };
 		EE0049AF2167D93300F7F215 /* libReactNativeConfig.a in Frameworks */ = {isa = PBXBuildFile; fileRef = EE0049AE2167BBC700F7F215 /* libReactNativeConfig.a */; };
+		EE8F23B3216FEBF000597058 /* libReactNativeLocalization.a in Frameworks */ = {isa = PBXBuildFile; fileRef = EE1CD28A216FE42F0072D8E8 /* libReactNativeLocalization.a */; };
+		EE8F23B4216FEBF800597058 /* libReactNativeNavigation.a in Frameworks */ = {isa = PBXBuildFile; fileRef = EE1CD299216FE42F0072D8E8 /* libReactNativeNavigation.a */; };
+		EE8F23B5216FEC2900597058 /* libyoga.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 3DAD3EA51DF850E9000B6D8A /* libyoga.a */; };
+		EE8F23B6216FEC3700597058 /* libyoga.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 3DAD3EA51DF850E9000B6D8A /* libyoga.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -431,6 +432,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EE8F23B5216FEC2900597058 /* libyoga.a in Frameworks */,
 				ADBDB9381DFEBF1600ED6528 /* libRCTBlob.a in Frameworks */,
 				5E9157361DD0AC6A00FF2AA8 /* libRCTAnimation.a in Frameworks */,
 				146834051AC3E58100842450 /* libReact.a in Frameworks */,
@@ -445,9 +447,6 @@
 				00C302EA1ABCBA2D00DB3ED1 /* libRCTVibration.a in Frameworks */,
 				139FDEF61B0652A700C62182 /* libRCTWebSocket.a in Frameworks */,
 				78B25C3E8FE84A3AAD34DFD8 /* libReactNativeConfig.a in Frameworks */,
-				AD1DAB982EA74492B2ECC153 /* libAppCenterReactNative.a in Frameworks */,
-				B40C3565238749EDBF5746BF /* libAppCenterReactNativeAnalytics.a in Frameworks */,
-				A9274DB413F740BD96BF3A8C /* libAppCenterReactNativeCrashes.a in Frameworks */,
 				0BFFBBE3D40E521A0FDB90BA /* libPods-WebPremios.a in Frameworks */,
 				965B9268AE994D0E83975B21 /* libReactNativeLocalization.a in Frameworks */,
 				19E8B28A2FA84585B83804B9 /* libReactNativeNavigation.a in Frameworks */,
@@ -458,6 +457,9 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EE8F23B6216FEC3700597058 /* libyoga.a in Frameworks */,
+				EE8F23B4216FEBF800597058 /* libReactNativeNavigation.a in Frameworks */,
+				EE8F23B3216FEBF000597058 /* libReactNativeLocalization.a in Frameworks */,
 				EE0049AF2167D93300F7F215 /* libReactNativeConfig.a in Frameworks */,
 				EE0048DA21679D9A00F7F215 /* libRCTBlob.a in Frameworks */,
 				EE0048DB21679D9A00F7F215 /* libRCTAnimation.a in Frameworks */,

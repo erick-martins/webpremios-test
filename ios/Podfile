@@ -2,23 +2,27 @@
 # platform :ios, '9.0'
 
 target 'Vivo' do
-  pod 'AppCenter/Crashes', '~> 1.9.0'
-  pod 'AppCenter/Analytics', '~> 1.9.0'
-  pod 'AppCenterReactNativeShared', '~> 1.8.1'
-  # Uncomment the next line if you're using Swift or would like to use dynamic frameworks
-  # use_frameworks!
+    pod 'AppCenter/Crashes', '~> 1.9.0'
+    pod 'AppCenter/Analytics', '~> 1.9.0'
+    pod 'AppCenterReactNativeShared', '~> 1.8.1'
+    # Uncomment the next line if you're using Swift or would like to use dynamic frameworks
+    # use_frameworks!
 
-  # Pods for Vivo
+    # Pods for Vivo
 
-  platform :ios, '9.0'
+    platform :ios, '9.0'
 end
 
 target 'WebPremios' do
-  # Uncomment the next line if you're using Swift or would like to use dynamic frameworks
-  # use_frameworks!
+    pod 'AppCenter/Crashes', '~> 1.9.0'
+    pod 'AppCenter/Analytics', '~> 1.9.0'
+    pod 'AppCenterReactNativeShared', '~> 1.8.1'
+    # Uncomment the next line if you're using Swift or would like to use dynamic frameworks
+    # use_frameworks!
 
-  # Pods for WebPremios
+    # Pods for Vivo
 
+    platform :ios, '9.0'
   
 
 end
