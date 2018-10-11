@@ -14,6 +14,9 @@
   },
   "dependencies": {
     "@babel/core": "^7.0.0-beta.47",
+    "appcenter": "^1.8.1",
+    "appcenter-analytics": "^1.8.1",
+    "appcenter-crashes": "^1.8.1",
     "axios": "^0.18.0",
     "metro-config": "^0.48.1",
     "prop-types": "^15.6.1",
@@ -52,6 +55,11 @@
     "preset": "react-native",
     "transform": {
       "^.+\\.js$": "<rootDir>/node_modules/react-native/jest/preprocessor.js"
-    }
+    },
+    "setupFiles": [
+      "<rootDir>/node_modules/appcenter/test/AppCenterMock.js",
+      "<rootDir>/node_modules/appcenter-analytics/test/AppCenterAnalyticsMock.js",
+      "<rootDir>/node_modules/appcenter-crashes/test/AppCenterCrashesMock.js"
+    ]
   }
 }
