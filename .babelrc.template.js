@@ -2,7 +2,7 @@ const target = "SCHEME";
 
 module.exports = function (api) {
     api.cache(false);
-    console.log(process.env);
+    //console.log(process.env);
     const presets = [
       "react-native"
     ];

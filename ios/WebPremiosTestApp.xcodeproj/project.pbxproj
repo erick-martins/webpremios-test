@@ -13,7 +13,6 @@
 		00C302E91ABCBA2D00DB3ED1 /* libRCTNetwork.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 00C302DC1ABCB9D200DB3ED1 /* libRCTNetwork.a */; };
 		00C302EA1ABCBA2D00DB3ED1 /* libRCTVibration.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 00C302E41ABCB9EE00DB3ED1 /* libRCTVibration.a */; };
 		00E356F31AD99517003FC87E /* WebPremiosTestAppTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* WebPremiosTestAppTests.m */; };
-		0BFFBBE3D40E521A0FDB90BA /* libPods-WebPremios.a in Frameworks */ = {isa = PBXBuildFile; fileRef = DF9BDC7920163813833B08A3 /* libPods-WebPremios.a */; };
 		133E29F31AD74F7200F7D852 /* libRCTLinking.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 78C398B91ACF4ADC00677621 /* libRCTLinking.a */; };
 		139105C61AF99C1200B5F7CC /* libRCTSettings.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 139105C11AF99BAD00B5F7CC /* libRCTSettings.a */; };
 		139FDEF61B0652A700C62182 /* libRCTWebSocket.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 139FDEF41B06529B00C62182 /* libRCTWebSocket.a */; };
@@ -21,14 +20,13 @@
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
 		140ED2AC1D01E1AD002B40FF /* libReact.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 146834041AC3E56700842450 /* libReact.a */; };
 		146834051AC3E58100842450 /* libReact.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 146834041AC3E56700842450 /* libReact.a */; };
-		19E8B28A2FA84585B83804B9 /* libReactNativeNavigation.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5915B89C08D6453392B41274 /* libReactNativeNavigation.a */; };
+		1DFA8569626A96BA978CA339 /* libPods-WebPremiosTestAppTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = BA9327285DE7326AB5DBD89D /* libPods-WebPremiosTestAppTests.a */; };
 		5E9157361DD0AC6A00FF2AA8 /* libRCTAnimation.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5E9157331DD0AC6500FF2AA8 /* libRCTAnimation.a */; };
-		5F20113A4F1E0A48FEFC55A5 /* libPods-Vivo.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 765930F7ABFFA9A444F03398 /* libPods-Vivo.a */; };
-		719C03302BE146B093798145 /* AppCenter-Config.plist in Resources */ = {isa = PBXBuildFile; fileRef = E2148847CDB24A8DB8281B36 /* AppCenter-Config.plist */; };
 		78B25C3E8FE84A3AAD34DFD8 /* libReactNativeConfig.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B9EC9F05EEB44EFEB805CDCC /* libReactNativeConfig.a */; };
 		832341BD1AAA6AB300B99B32 /* libRCTText.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 832341B51AAA6A8300B99B32 /* libRCTText.a */; };
-		965B9268AE994D0E83975B21 /* libReactNativeLocalization.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 1238402623CA4799977A0D82 /* libReactNativeLocalization.a */; };
 		ADBDB9381DFEBF1600ED6528 /* libRCTBlob.a in Frameworks */ = {isa = PBXBuildFile; fileRef = ADBDB9271DFEBF0700ED6528 /* libRCTBlob.a */; };
+		E7CE71FCEA2E4B72F751EA3A /* libPods-WebPremios.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 1C158A798DAED702E0F4B285 /* libPods-WebPremios.a */; };
+		E8B98517DA38A58D543D7718 /* libPods-Vivo.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 0BBD2F3F3A3477C838242EC9 /* libPods-Vivo.a */; };
 		EE0048D721679D9A00F7F215 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
 		EE0048D821679D9A00F7F215 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
 		EE0048DA21679D9A00F7F215 /* libRCTBlob.a in Frameworks */ = {isa = PBXBuildFile; fileRef = ADBDB9271DFEBF0700ED6528 /* libRCTBlob.a */; };
@@ -50,10 +48,6 @@
 		EE0049742167B11700F7F215 /* WebPremiosLaunch.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EE0049722167AEC300F7F215 /* WebPremiosLaunch.storyboard */; };
 		EE0049762167B15B00F7F215 /* VivoLaunch.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EE0049752167B15B00F7F215 /* VivoLaunch.storyboard */; };
 		EE0049AF2167D93300F7F215 /* libReactNativeConfig.a in Frameworks */ = {isa = PBXBuildFile; fileRef = EE0049AE2167BBC700F7F215 /* libReactNativeConfig.a */; };
-		EE8F23B3216FEBF000597058 /* libReactNativeLocalization.a in Frameworks */ = {isa = PBXBuildFile; fileRef = EE1CD28A216FE42F0072D8E8 /* libReactNativeLocalization.a */; };
-		EE8F23B4216FEBF800597058 /* libReactNativeNavigation.a in Frameworks */ = {isa = PBXBuildFile; fileRef = EE1CD299216FE42F0072D8E8 /* libReactNativeNavigation.a */; };
-		EE8F23B5216FEC2900597058 /* libyoga.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 3DAD3EA51DF850E9000B6D8A /* libyoga.a */; };
-		EE8F23B6216FEC3700597058 /* libyoga.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 3DAD3EA51DF850E9000B6D8A /* libyoga.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -330,41 +324,6 @@
 			remoteGlobalIDString = EB2648DF1C7BE17A00B8F155;
 			remoteInfo = ReactNativeConfig;
 		};
-		EE1CD289216FE42F0072D8E8 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 436D129C063749F0AC26B51A /* ReactNativeLocalization.xcodeproj */;
-			proxyType = 2;
-			remoteGlobalIDString = 7B5D9D0A1B6AD0EA00CF3A83;
-			remoteInfo = ReactNativeLocalization;
-		};
-		EE1CD28E216FE42F0072D8E8 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 7DB629C1ADA14A31830FF271 /* AppCenterReactNativeAnalytics.xcodeproj */;
-			proxyType = 2;
-			remoteGlobalIDString = 548694001D8384E600E6685A;
-			remoteInfo = AppCenterReactNativeAnalytics;
-		};
-		EE1CD293216FE42F0072D8E8 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 72783C07AEE740828A10AD1A /* AppCenterReactNativeCrashes.xcodeproj */;
-			proxyType = 2;
-			remoteGlobalIDString = 5419C2701D824AA700DDF3A1;
-			remoteInfo = AppCenterReactNativeCrashes;
-		};
-		EE1CD298216FE42F0072D8E8 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 89FC8970A0464665B611F057 /* ReactNativeNavigation.xcodeproj */;
-			proxyType = 2;
-			remoteGlobalIDString = D8AFADBD1BEE6F3F00A4592D;
-			remoteInfo = ReactNativeNavigation;
-		};
-		EE1CD29D216FE42F0072D8E8 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 28BD1A0E499840A786FD20CE /* AppCenterReactNative.xcodeproj */;
-			proxyType = 2;
-			remoteGlobalIDString = C35AEC211EF91F9300931F0C;
-			remoteInfo = AppCenterReactNative;
-		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
@@ -377,7 +336,7 @@
 		00E356EE1AD99517003FC87E /* WebPremiosTestAppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WebPremiosTestAppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		00E356F11AD99517003FC87E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		00E356F21AD99517003FC87E /* WebPremiosTestAppTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WebPremiosTestAppTests.m; sourceTree = "<group>"; };
-		1238402623CA4799977A0D82 /* libReactNativeLocalization.a */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = archive.ar; path = libReactNativeLocalization.a; sourceTree = "<group>"; };
+		0BBD2F3F3A3477C838242EC9 /* libPods-Vivo.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Vivo.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		139105B61AF99BAD00B5F7CC /* RCTSettings.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTSettings.xcodeproj; path = "../node_modules/react-native/Libraries/Settings/RCTSettings.xcodeproj"; sourceTree = "<group>"; };
 		139FDEE61B06529A00C62182 /* RCTWebSocket.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTWebSocket.xcodeproj; path = "../node_modules/react-native/Libraries/WebSocket/RCTWebSocket.xcodeproj"; sourceTree = "<group>"; };
 		13B07F961A680F5B00A75B9A /* WebPremiosTestApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WebPremiosTestApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -386,29 +345,21 @@
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = WebPremiosTestApp/Info.plist; sourceTree = "<group>"; };
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = WebPremiosTestApp/main.m; sourceTree = "<group>"; };
 		146833FF1AC3E56700842450 /* React.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = React.xcodeproj; path = "../node_modules/react-native/React/React.xcodeproj"; sourceTree = "<group>"; };
-		28BD1A0E499840A786FD20CE /* AppCenterReactNative.xcodeproj */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = "wrapper.pb-project"; name = AppCenterReactNative.xcodeproj; path = ../node_modules/appcenter/ios/AppCenterReactNative.xcodeproj; sourceTree = "<group>"; };
+		1C158A798DAED702E0F4B285 /* libPods-WebPremios.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-WebPremios.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2D16E6891FA4F8E400B85C8A /* libReact.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; path = libReact.a; sourceTree = BUILT_PRODUCTS_DIR; };
-		2DC50F274F1549FBF7A2EC46 /* Pods-WebPremios.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WebPremios.release.xcconfig"; path = "Pods/Target Support Files/Pods-WebPremios/Pods-WebPremios.release.xcconfig"; sourceTree = "<group>"; };
-		436D129C063749F0AC26B51A /* ReactNativeLocalization.xcodeproj */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = "wrapper.pb-project"; name = ReactNativeLocalization.xcodeproj; path = "../node_modules/react-native-localization/ReactNativeLocalization.xcodeproj"; sourceTree = "<group>"; };
-		581A20006798443EB228F195 /* libAppCenterReactNative.a */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = archive.ar; path = libAppCenterReactNative.a; sourceTree = "<group>"; };
-		5915B89C08D6453392B41274 /* libReactNativeNavigation.a */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = archive.ar; path = libReactNativeNavigation.a; sourceTree = "<group>"; };
+		35C20A413786C0514C7C474A /* Pods-Vivo.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Vivo.release.xcconfig"; path = "Pods/Target Support Files/Pods-Vivo/Pods-Vivo.release.xcconfig"; sourceTree = "<group>"; };
 		5E91572D1DD0AC6500FF2AA8 /* RCTAnimation.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTAnimation.xcodeproj; path = "../node_modules/react-native/Libraries/NativeAnimation/RCTAnimation.xcodeproj"; sourceTree = "<group>"; };
-		72783C07AEE740828A10AD1A /* AppCenterReactNativeCrashes.xcodeproj */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = "wrapper.pb-project"; name = AppCenterReactNativeCrashes.xcodeproj; path = "../node_modules/appcenter-crashes/ios/AppCenterReactNativeCrashes.xcodeproj"; sourceTree = "<group>"; };
-		7550B8B4F84241CC0C956046 /* Pods-Vivo.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Vivo.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Vivo/Pods-Vivo.debug.xcconfig"; sourceTree = "<group>"; };
-		765930F7ABFFA9A444F03398 /* libPods-Vivo.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Vivo.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		703B5DF5BD46EF3D0D50F738 /* Pods-WebPremios.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WebPremios.debug.xcconfig"; path = "Pods/Target Support Files/Pods-WebPremios/Pods-WebPremios.debug.xcconfig"; sourceTree = "<group>"; };
+		75C1EA7669CB3D93E7365AFA /* Pods-WebPremiosTestAppTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WebPremiosTestAppTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-WebPremiosTestAppTests/Pods-WebPremiosTestAppTests.release.xcconfig"; sourceTree = "<group>"; };
 		78C398B01ACF4ADC00677621 /* RCTLinking.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTLinking.xcodeproj; path = "../node_modules/react-native/Libraries/LinkingIOS/RCTLinking.xcodeproj"; sourceTree = "<group>"; };
-		7DB629C1ADA14A31830FF271 /* AppCenterReactNativeAnalytics.xcodeproj */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = "wrapper.pb-project"; name = AppCenterReactNativeAnalytics.xcodeproj; path = "../node_modules/appcenter-analytics/ios/AppCenterReactNativeAnalytics.xcodeproj"; sourceTree = "<group>"; };
 		832341B01AAA6A8300B99B32 /* RCTText.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTText.xcodeproj; path = "../node_modules/react-native/Libraries/Text/RCTText.xcodeproj"; sourceTree = "<group>"; };
-		89FC8970A0464665B611F057 /* ReactNativeNavigation.xcodeproj */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = "wrapper.pb-project"; name = ReactNativeNavigation.xcodeproj; path = "../node_modules/react-native-navigation/ios/ReactNativeNavigation.xcodeproj"; sourceTree = "<group>"; };
-		8DEE347E3885A9AA3A9F8B6B /* Pods-WebPremios.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WebPremios.debug.xcconfig"; path = "Pods/Target Support Files/Pods-WebPremios/Pods-WebPremios.debug.xcconfig"; sourceTree = "<group>"; };
+		997922A75BD6CA4C003F19E5 /* Pods-WebPremios.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WebPremios.release.xcconfig"; path = "Pods/Target Support Files/Pods-WebPremios/Pods-WebPremios.release.xcconfig"; sourceTree = "<group>"; };
 		ADBDB91F1DFEBF0600ED6528 /* RCTBlob.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTBlob.xcodeproj; path = "../node_modules/react-native/Libraries/Blob/RCTBlob.xcodeproj"; sourceTree = "<group>"; };
-		B735458EB4E44DD2B0FFBF1D /* libAppCenterReactNativeAnalytics.a */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = archive.ar; path = libAppCenterReactNativeAnalytics.a; sourceTree = "<group>"; };
+		B157EB1DCE2BF4E81C4A37F2 /* Pods-Vivo.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Vivo.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Vivo/Pods-Vivo.debug.xcconfig"; sourceTree = "<group>"; };
 		B9EC9F05EEB44EFEB805CDCC /* libReactNativeConfig.a */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = archive.ar; path = libReactNativeConfig.a; sourceTree = "<group>"; };
+		BA9327285DE7326AB5DBD89D /* libPods-WebPremiosTestAppTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-WebPremiosTestAppTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		C531083355DD66B7FF8BFD12 /* Pods-WebPremiosTestAppTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WebPremiosTestAppTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-WebPremiosTestAppTests/Pods-WebPremiosTestAppTests.debug.xcconfig"; sourceTree = "<group>"; };
 		C558BEC835D241C2B128EE34 /* ReactNativeConfig.xcodeproj */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = "wrapper.pb-project"; name = ReactNativeConfig.xcodeproj; path = "../node_modules/react-native-config/ios/ReactNativeConfig.xcodeproj"; sourceTree = "<group>"; };
-		D52993FDB31F14A37236C70B /* Pods-Vivo.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Vivo.release.xcconfig"; path = "Pods/Target Support Files/Pods-Vivo/Pods-Vivo.release.xcconfig"; sourceTree = "<group>"; };
-		D79D0D6C17D047BCB8280AC4 /* libAppCenterReactNativeCrashes.a */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = archive.ar; path = libAppCenterReactNativeCrashes.a; sourceTree = "<group>"; };
-		DF9BDC7920163813833B08A3 /* libPods-WebPremios.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-WebPremios.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		E2148847CDB24A8DB8281B36 /* AppCenter-Config.plist */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 4; includeInIndex = 0; lastKnownFileType = text.plist.xml; name = "AppCenter-Config.plist"; path = "WebPremiosTestApp/AppCenter-Config.plist"; sourceTree = "<group>"; };
 		EE0048ED21679D9A00F7F215 /* Vivo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Vivo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EE00491321679D9B00F7F215 /* WebPremiosTestApp copy-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "WebPremiosTestApp copy-Info.plist"; path = "/Users/erick.pinheiro/Documents/Apps/WebPrêmios Test App/WebPremiosTestApp/ios/WebPremiosTestApp copy-Info.plist"; sourceTree = "<absolute>"; };
 		EE0049642167A90D00F7F215 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -425,6 +376,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				140ED2AC1D01E1AD002B40FF /* libReact.a in Frameworks */,
+				1DFA8569626A96BA978CA339 /* libPods-WebPremiosTestAppTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -432,7 +384,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				EE8F23B5216FEC2900597058 /* libyoga.a in Frameworks */,
 				ADBDB9381DFEBF1600ED6528 /* libRCTBlob.a in Frameworks */,
 				5E9157361DD0AC6A00FF2AA8 /* libRCTAnimation.a in Frameworks */,
 				146834051AC3E58100842450 /* libReact.a in Frameworks */,
@@ -447,9 +398,7 @@
 				00C302EA1ABCBA2D00DB3ED1 /* libRCTVibration.a in Frameworks */,
 				139FDEF61B0652A700C62182 /* libRCTWebSocket.a in Frameworks */,
 				78B25C3E8FE84A3AAD34DFD8 /* libReactNativeConfig.a in Frameworks */,
-				0BFFBBE3D40E521A0FDB90BA /* libPods-WebPremios.a in Frameworks */,
-				965B9268AE994D0E83975B21 /* libReactNativeLocalization.a in Frameworks */,
-				19E8B28A2FA84585B83804B9 /* libReactNativeNavigation.a in Frameworks */,
+				E7CE71FCEA2E4B72F751EA3A /* libPods-WebPremios.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -457,9 +406,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				EE8F23B6216FEC3700597058 /* libyoga.a in Frameworks */,
-				EE8F23B4216FEBF800597058 /* libReactNativeNavigation.a in Frameworks */,
-				EE8F23B3216FEBF000597058 /* libReactNativeLocalization.a in Frameworks */,
 				EE0049AF2167D93300F7F215 /* libReactNativeConfig.a in Frameworks */,
 				EE0048DA21679D9A00F7F215 /* libRCTBlob.a in Frameworks */,
 				EE0048DB21679D9A00F7F215 /* libRCTAnimation.a in Frameworks */,
@@ -474,7 +420,7 @@
 				EE0048E321679D9A00F7F215 /* libRCTText.a in Frameworks */,
 				EE0048E421679D9A00F7F215 /* libRCTVibration.a in Frameworks */,
 				EE0048E521679D9A00F7F215 /* libRCTWebSocket.a in Frameworks */,
-				5F20113A4F1E0A48FEFC55A5 /* libPods-Vivo.a in Frameworks */,
+				E8B98517DA38A58D543D7718 /* libPods-Vivo.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -600,10 +546,24 @@
 			isa = PBXGroup;
 			children = (
 				2D16E6891FA4F8E400B85C8A /* libReact.a */,
-				765930F7ABFFA9A444F03398 /* libPods-Vivo.a */,
-				DF9BDC7920163813833B08A3 /* libPods-WebPremios.a */,
+				0BBD2F3F3A3477C838242EC9 /* libPods-Vivo.a */,
+				1C158A798DAED702E0F4B285 /* libPods-WebPremios.a */,
+				BA9327285DE7326AB5DBD89D /* libPods-WebPremiosTestAppTests.a */,
 			);
 			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		3C80EF4C649E7B90F8A1B56D /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				B157EB1DCE2BF4E81C4A37F2 /* Pods-Vivo.debug.xcconfig */,
+				35C20A413786C0514C7C474A /* Pods-Vivo.release.xcconfig */,
+				703B5DF5BD46EF3D0D50F738 /* Pods-WebPremios.debug.xcconfig */,
+				997922A75BD6CA4C003F19E5 /* Pods-WebPremios.release.xcconfig */,
+				C531083355DD66B7FF8BFD12 /* Pods-WebPremiosTestAppTests.debug.xcconfig */,
+				75C1EA7669CB3D93E7365AFA /* Pods-WebPremiosTestAppTests.release.xcconfig */,
+			);
+			name = Pods;
 			sourceTree = "<group>";
 		};
 		5E91572E1DD0AC6500FF2AA8 /* Products */ = {
@@ -640,11 +600,6 @@
 				00C302DF1ABCB9EE00DB3ED1 /* RCTVibration.xcodeproj */,
 				139FDEE61B06529A00C62182 /* RCTWebSocket.xcodeproj */,
 				C558BEC835D241C2B128EE34 /* ReactNativeConfig.xcodeproj */,
-				28BD1A0E499840A786FD20CE /* AppCenterReactNative.xcodeproj */,
-				7DB629C1ADA14A31830FF271 /* AppCenterReactNativeAnalytics.xcodeproj */,
-				72783C07AEE740828A10AD1A /* AppCenterReactNativeCrashes.xcodeproj */,
-				436D129C063749F0AC26B51A /* ReactNativeLocalization.xcodeproj */,
-				89FC8970A0464665B611F057 /* ReactNativeNavigation.xcodeproj */,
 			);
 			name = Libraries;
 			sourceTree = "<group>";
@@ -668,8 +623,7 @@
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				EE00491321679D9B00F7F215 /* WebPremiosTestApp copy-Info.plist */,
 				EE0049842167BBC300F7F215 /* Recovered References */,
-				E2148847CDB24A8DB8281B36 /* AppCenter-Config.plist */,
-				9A6D0A27F9E0E85FB793CE5E /* Pods */,
+				3C80EF4C649E7B90F8A1B56D /* Pods */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -684,17 +638,6 @@
 				EE0048ED21679D9A00F7F215 /* Vivo.app */,
 			);
 			name = Products;
-			sourceTree = "<group>";
-		};
-		9A6D0A27F9E0E85FB793CE5E /* Pods */ = {
-			isa = PBXGroup;
-			children = (
-				7550B8B4F84241CC0C956046 /* Pods-Vivo.debug.xcconfig */,
-				D52993FDB31F14A37236C70B /* Pods-Vivo.release.xcconfig */,
-				8DEE347E3885A9AA3A9F8B6B /* Pods-WebPremios.debug.xcconfig */,
-				2DC50F274F1549FBF7A2EC46 /* Pods-WebPremios.release.xcconfig */,
-			);
-			name = Pods;
 			sourceTree = "<group>";
 		};
 		ADBDB9201DFEBF0600ED6528 /* Products */ = {
@@ -740,11 +683,6 @@
 			isa = PBXGroup;
 			children = (
 				B9EC9F05EEB44EFEB805CDCC /* libReactNativeConfig.a */,
-				581A20006798443EB228F195 /* libAppCenterReactNative.a */,
-				B735458EB4E44DD2B0FFBF1D /* libAppCenterReactNativeAnalytics.a */,
-				D79D0D6C17D047BCB8280AC4 /* libAppCenterReactNativeCrashes.a */,
-				1238402623CA4799977A0D82 /* libReactNativeLocalization.a */,
-				5915B89C08D6453392B41274 /* libReactNativeNavigation.a */,
 			);
 			name = "Recovered References";
 			sourceTree = "<group>";
@@ -757,46 +695,6 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		EE1CD286216FE42F0072D8E8 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				EE1CD28A216FE42F0072D8E8 /* libReactNativeLocalization.a */,
-			);
-			name = Products;
-			sourceTree = "<group>";
-		};
-		EE1CD28B216FE42F0072D8E8 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				EE1CD28F216FE42F0072D8E8 /* libAppCenterReactNativeAnalytics.a */,
-			);
-			name = Products;
-			sourceTree = "<group>";
-		};
-		EE1CD290216FE42F0072D8E8 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				EE1CD294216FE42F0072D8E8 /* libAppCenterReactNativeCrashes.a */,
-			);
-			name = Products;
-			sourceTree = "<group>";
-		};
-		EE1CD295216FE42F0072D8E8 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				EE1CD299216FE42F0072D8E8 /* libReactNativeNavigation.a */,
-			);
-			name = Products;
-			sourceTree = "<group>";
-		};
-		EE1CD29A216FE42F0072D8E8 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				EE1CD29E216FE42F0072D8E8 /* libAppCenterReactNative.a */,
-			);
-			name = Products;
-			sourceTree = "<group>";
-		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -804,6 +702,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "WebPremiosTestAppTests" */;
 			buildPhases = (
+				5AD8E067E2552B1DC673CBAF /* [CP] Check Pods Manifest.lock */,
 				00E356EA1AD99517003FC87E /* Sources */,
 				00E356EB1AD99517003FC87E /* Frameworks */,
 				00E356EC1AD99517003FC87E /* Resources */,
@@ -822,7 +721,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "WebPremios" */;
 			buildPhases = (
-				940DAF6E418653028C144A87 /* [CP] Check Pods Manifest.lock */,
+				B0869A093902B7A1DD8CF497 /* [CP] Check Pods Manifest.lock */,
 				13B07F871A680F5B00A75B9A /* Sources */,
 				13B07F8C1A680F5B00A75B9A /* Frameworks */,
 				13B07F8E1A680F5B00A75B9A /* Resources */,
@@ -841,7 +740,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = EE0048EA21679D9A00F7F215 /* Build configuration list for PBXNativeTarget "Vivo" */;
 			buildPhases = (
-				CF5A36452B58CE922C7287E9 /* [CP] Check Pods Manifest.lock */,
+				42CC52D7E59C43AEAE18AFCB /* [CP] Check Pods Manifest.lock */,
 				EE0048D621679D9A00F7F215 /* Sources */,
 				EE0048D921679D9A00F7F215 /* Frameworks */,
 				EE0048E621679D9A00F7F215 /* Resources */,
@@ -869,6 +768,12 @@
 						CreatedOnToolsVersion = 6.2;
 						TestTargetID = 13B07F861A680F5B00A75B9A;
 					};
+					13B07F861A680F5B00A75B9A = {
+						DevelopmentTeam = A4EQD5BTBS;
+					};
+					EE0048D521679D9A00F7F215 = {
+						DevelopmentTeam = A4EQD5BTBS;
+					};
 				};
 			};
 			buildConfigurationList = 83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "WebPremiosTestApp" */;
@@ -883,18 +788,6 @@
 			productRefGroup = 83CBBA001A601CBA00E9B192 /* Products */;
 			projectDirPath = "";
 			projectReferences = (
-				{
-					ProductGroup = EE1CD29A216FE42F0072D8E8 /* Products */;
-					ProjectRef = 28BD1A0E499840A786FD20CE /* AppCenterReactNative.xcodeproj */;
-				},
-				{
-					ProductGroup = EE1CD28B216FE42F0072D8E8 /* Products */;
-					ProjectRef = 7DB629C1ADA14A31830FF271 /* AppCenterReactNativeAnalytics.xcodeproj */;
-				},
-				{
-					ProductGroup = EE1CD290216FE42F0072D8E8 /* Products */;
-					ProjectRef = 72783C07AEE740828A10AD1A /* AppCenterReactNativeCrashes.xcodeproj */;
-				},
 				{
 					ProductGroup = 00C302A81ABCB8CE00DB3ED1 /* Products */;
 					ProjectRef = 00C302A71ABCB8CE00DB3ED1 /* RCTActionSheet.xcodeproj */;
@@ -946,14 +839,6 @@
 				{
 					ProductGroup = EE0049AA2167BBC700F7F215 /* Products */;
 					ProjectRef = C558BEC835D241C2B128EE34 /* ReactNativeConfig.xcodeproj */;
-				},
-				{
-					ProductGroup = EE1CD286216FE42F0072D8E8 /* Products */;
-					ProjectRef = 436D129C063749F0AC26B51A /* ReactNativeLocalization.xcodeproj */;
-				},
-				{
-					ProductGroup = EE1CD295216FE42F0072D8E8 /* Products */;
-					ProjectRef = 89FC8970A0464665B611F057 /* ReactNativeNavigation.xcodeproj */;
 				},
 			);
 			projectRoot = "";
@@ -1232,41 +1117,6 @@
 			remoteRef = EE0049AD2167BBC700F7F215 /* PBXContainerItemProxy */;
 			sourceTree = BUILT_PRODUCTS_DIR;
 		};
-		EE1CD28A216FE42F0072D8E8 /* libReactNativeLocalization.a */ = {
-			isa = PBXReferenceProxy;
-			fileType = archive.ar;
-			path = libReactNativeLocalization.a;
-			remoteRef = EE1CD289216FE42F0072D8E8 /* PBXContainerItemProxy */;
-			sourceTree = BUILT_PRODUCTS_DIR;
-		};
-		EE1CD28F216FE42F0072D8E8 /* libAppCenterReactNativeAnalytics.a */ = {
-			isa = PBXReferenceProxy;
-			fileType = archive.ar;
-			path = libAppCenterReactNativeAnalytics.a;
-			remoteRef = EE1CD28E216FE42F0072D8E8 /* PBXContainerItemProxy */;
-			sourceTree = BUILT_PRODUCTS_DIR;
-		};
-		EE1CD294216FE42F0072D8E8 /* libAppCenterReactNativeCrashes.a */ = {
-			isa = PBXReferenceProxy;
-			fileType = archive.ar;
-			path = libAppCenterReactNativeCrashes.a;
-			remoteRef = EE1CD293216FE42F0072D8E8 /* PBXContainerItemProxy */;
-			sourceTree = BUILT_PRODUCTS_DIR;
-		};
-		EE1CD299216FE42F0072D8E8 /* libReactNativeNavigation.a */ = {
-			isa = PBXReferenceProxy;
-			fileType = archive.ar;
-			path = libReactNativeNavigation.a;
-			remoteRef = EE1CD298216FE42F0072D8E8 /* PBXContainerItemProxy */;
-			sourceTree = BUILT_PRODUCTS_DIR;
-		};
-		EE1CD29E216FE42F0072D8E8 /* libAppCenterReactNative.a */ = {
-			isa = PBXReferenceProxy;
-			fileType = archive.ar;
-			path = libAppCenterReactNative.a;
-			remoteRef = EE1CD29D216FE42F0072D8E8 /* PBXContainerItemProxy */;
-			sourceTree = BUILT_PRODUCTS_DIR;
-		};
 /* End PBXReferenceProxy section */
 
 /* Begin PBXResourcesBuildPhase section */
@@ -1284,7 +1134,6 @@
 				EE0049672167A90F00F7F215 /* Info.plist in Resources */,
 				EE0049682167A90F00F7F215 /* WebPremiosAssets.xcassets in Resources */,
 				EE0049742167B11700F7F215 /* WebPremiosLaunch.storyboard in Resources */,
-				719C03302BE146B093798145 /* AppCenter-Config.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1313,27 +1162,9 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "#!/bin/sh\n# added by Erick Martins\nexport SCHEME=webpremios\ncp ../.babelrc.template.js ../.babelrc.js\nsed -i '' 's/SCHEME/webpremios/g' \".babelrc.js\"\n\n# React Default\nexport NODE_BINARY=node\n../node_modules/react-native/scripts/react-native-xcode.sh";
+			shellScript = "#!/bin/sh\n# added by Erick Martins\nexport SCHEME=webpremios\ncp ../.babelrc.template.js ../.babelrc.js\nsed -i '' 's/SCHEME/webpremios/g' \"../.babelrc.js\"\n\n# React Default\nexport NODE_BINARY=node\n../node_modules/react-native/scripts/react-native-xcode.sh";
 		};
-		940DAF6E418653028C144A87 /* [CP] Check Pods Manifest.lock */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
-				"${PODS_ROOT}/Manifest.lock",
-			);
-			name = "[CP] Check Pods Manifest.lock";
-			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-WebPremios-checkManifestLockResult.txt",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
-			showEnvVarsInLog = 0;
-		};
-		CF5A36452B58CE922C7287E9 /* [CP] Check Pods Manifest.lock */ = {
+		42CC52D7E59C43AEAE18AFCB /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -1345,6 +1176,42 @@
 			name = "[CP] Check Pods Manifest.lock";
 			outputPaths = (
 				"$(DERIVED_FILE_DIR)/Pods-Vivo-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		5AD8E067E2552B1DC673CBAF /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-WebPremiosTestAppTests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		B0869A093902B7A1DD8CF497 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-WebPremios-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -1363,7 +1230,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "# added by Erick Martins\nexport SCHEME=vivo\ncp ../.babelrc.template.js ../.babelrc.js\nsed -i '' 's/SCHEME/vivo/g' \".babelrc.js\"\n\n# React Default\nexport NODE_BINARY=node\n../node_modules/react-native/scripts/react-native-xcode.sh";
+			shellScript = "# added by Erick Martins\nexport SCHEME=vivo\ncp ../.babelrc.template.js ../.babelrc.js\nsed -i '' 's/SCHEME/vivo/g' \"../.babelrc.js\"\n\n# React Default\nexport NODE_BINARY=node\n../node_modules/react-native/scripts/react-native-xcode.sh";
 		};
 /* End PBXShellScriptBuildPhase section */
 
@@ -1407,6 +1274,7 @@
 /* Begin XCBuildConfiguration section */
 		00E356F61AD99517003FC87E /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = C531083355DD66B7FF8BFD12 /* Pods-WebPremiosTestAppTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				GCC_PREPROCESSOR_DEFINITIONS = (
@@ -1416,22 +1284,12 @@
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(SRCROOT)/../node_modules/react-native-config/ios/ReactNativeConfig",
-					"$(SRCROOT)/../node_modules/appcenter/ios/AppCenterReactNative",
-					"$(SRCROOT)/../node_modules/appcenter-analytics/ios/AppCenterReactNativeAnalytics",
-					"$(SRCROOT)/../node_modules/appcenter-crashes/ios/AppCenterReactNativeCrashes",
-					"$(SRCROOT)/../node_modules/react-native-localization",
-					"$(SRCROOT)/../node_modules/react-native-navigation/ios/**",
 				);
 				INFOPLIST_FILE = WebPremiosTestAppTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
-					"\"$(SRCROOT)/$(TARGET_NAME)\"",
-					"\"$(SRCROOT)/$(TARGET_NAME)\"",
-					"\"$(SRCROOT)/$(TARGET_NAME)\"",
-					"\"$(SRCROOT)/$(TARGET_NAME)\"",
-					"\"$(SRCROOT)/$(TARGET_NAME)\"",
 					"\"$(SRCROOT)/$(TARGET_NAME)\"",
 				);
 				OTHER_LDFLAGS = (
@@ -1445,28 +1303,19 @@
 		};
 		00E356F71AD99517003FC87E /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 75C1EA7669CB3D93E7365AFA /* Pods-WebPremiosTestAppTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				COPY_PHASE_STRIP = NO;
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(SRCROOT)/../node_modules/react-native-config/ios/ReactNativeConfig",
-					"$(SRCROOT)/../node_modules/appcenter/ios/AppCenterReactNative",
-					"$(SRCROOT)/../node_modules/appcenter-analytics/ios/AppCenterReactNativeAnalytics",
-					"$(SRCROOT)/../node_modules/appcenter-crashes/ios/AppCenterReactNativeCrashes",
-					"$(SRCROOT)/../node_modules/react-native-localization",
-					"$(SRCROOT)/../node_modules/react-native-navigation/ios/**",
 				);
 				INFOPLIST_FILE = WebPremiosTestAppTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
-					"\"$(SRCROOT)/$(TARGET_NAME)\"",
-					"\"$(SRCROOT)/$(TARGET_NAME)\"",
-					"\"$(SRCROOT)/$(TARGET_NAME)\"",
-					"\"$(SRCROOT)/$(TARGET_NAME)\"",
-					"\"$(SRCROOT)/$(TARGET_NAME)\"",
 					"\"$(SRCROOT)/$(TARGET_NAME)\"",
 				);
 				OTHER_LDFLAGS = (
@@ -1480,19 +1329,15 @@
 		};
 		13B07F941A680F5B00A75B9A /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 8DEE347E3885A9AA3A9F8B6B /* Pods-WebPremios.debug.xcconfig */;
+			baseConfigurationReference = 703B5DF5BD46EF3D0D50F738 /* Pods-WebPremios.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CURRENT_PROJECT_VERSION = 1;
 				DEAD_CODE_STRIPPING = NO;
+				DEVELOPMENT_TEAM = A4EQD5BTBS;
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(SRCROOT)/../node_modules/react-native-config/ios/ReactNativeConfig",
-					"$(SRCROOT)/../node_modules/appcenter/ios/AppCenterReactNative",
-					"$(SRCROOT)/../node_modules/appcenter-analytics/ios/AppCenterReactNativeAnalytics",
-					"$(SRCROOT)/../node_modules/appcenter-crashes/ios/AppCenterReactNativeCrashes",
-					"$(SRCROOT)/../node_modules/react-native-localization",
-					"$(SRCROOT)/../node_modules/react-native-navigation/ios/**",
 				);
 				INFOPLIST_FILE = WebPremiosTestApp/targets/WebPremios/Info.plist;
 				"INFOPLIST_OTHER_PREPROCESSOR_FLAGS[sdk=*]" = "-traditional";
@@ -1512,18 +1357,14 @@
 		};
 		13B07F951A680F5B00A75B9A /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 2DC50F274F1549FBF7A2EC46 /* Pods-WebPremios.release.xcconfig */;
+			baseConfigurationReference = 997922A75BD6CA4C003F19E5 /* Pods-WebPremios.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = A4EQD5BTBS;
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(SRCROOT)/../node_modules/react-native-config/ios/ReactNativeConfig",
-					"$(SRCROOT)/../node_modules/appcenter/ios/AppCenterReactNative",
-					"$(SRCROOT)/../node_modules/appcenter-analytics/ios/AppCenterReactNativeAnalytics",
-					"$(SRCROOT)/../node_modules/appcenter-crashes/ios/AppCenterReactNativeCrashes",
-					"$(SRCROOT)/../node_modules/react-native-localization",
-					"$(SRCROOT)/../node_modules/react-native-navigation/ios/**",
 				);
 				INFOPLIST_FILE = WebPremiosTestApp/targets/WebPremios/Info.plist;
 				"INFOPLIST_OTHER_PREPROCESSOR_FLAGS[sdk=*]" = "-traditional";
@@ -1619,19 +1460,15 @@
 		};
 		EE0048EB21679D9A00F7F215 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 7550B8B4F84241CC0C956046 /* Pods-Vivo.debug.xcconfig */;
+			baseConfigurationReference = B157EB1DCE2BF4E81C4A37F2 /* Pods-Vivo.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CURRENT_PROJECT_VERSION = 1;
 				DEAD_CODE_STRIPPING = NO;
+				DEVELOPMENT_TEAM = A4EQD5BTBS;
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(SRCROOT)/../node_modules/react-native-config/ios/ReactNativeConfig",
-					"$(SRCROOT)/../node_modules/appcenter/ios/AppCenterReactNative",
-					"$(SRCROOT)/../node_modules/appcenter-analytics/ios/AppCenterReactNativeAnalytics",
-					"$(SRCROOT)/../node_modules/appcenter-crashes/ios/AppCenterReactNativeCrashes",
-					"$(SRCROOT)/../node_modules/react-native-localization",
-					"$(SRCROOT)/../node_modules/react-native-navigation/ios/**",
 				);
 				INFOPLIST_FILE = "$(SRCROOT)/WebPremiosTestApp/targets/Vivo/Info.plist";
 				"INFOPLIST_OTHER_PREPROCESSOR_FLAGS[sdk=*]" = "-traditional";
@@ -1640,11 +1477,6 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
-					"\"$(SRCROOT)/$(TARGET_NAME)\"",
-					"\"$(SRCROOT)/$(TARGET_NAME)\"",
-					"\"$(SRCROOT)/$(TARGET_NAME)\"",
-					"\"$(SRCROOT)/$(TARGET_NAME)\"",
-					"\"$(SRCROOT)/$(TARGET_NAME)\"",
 					"\"$(SRCROOT)/$(TARGET_NAME)\"",
 				);
 				OTHER_LDFLAGS = (
@@ -1660,18 +1492,14 @@
 		};
 		EE0048EC21679D9A00F7F215 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = D52993FDB31F14A37236C70B /* Pods-Vivo.release.xcconfig */;
+			baseConfigurationReference = 35C20A413786C0514C7C474A /* Pods-Vivo.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = A4EQD5BTBS;
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(SRCROOT)/../node_modules/react-native-config/ios/ReactNativeConfig",
-					"$(SRCROOT)/../node_modules/appcenter/ios/AppCenterReactNative",
-					"$(SRCROOT)/../node_modules/appcenter-analytics/ios/AppCenterReactNativeAnalytics",
-					"$(SRCROOT)/../node_modules/appcenter-crashes/ios/AppCenterReactNativeCrashes",
-					"$(SRCROOT)/../node_modules/react-native-localization",
-					"$(SRCROOT)/../node_modules/react-native-navigation/ios/**",
 				);
 				INFOPLIST_FILE = "$(SRCROOT)/WebPremiosTestApp/targets/Vivo/Info.plist";
 				"INFOPLIST_OTHER_PREPROCESSOR_FLAGS[sdk=*]" = "-traditional";
@@ -1680,11 +1508,6 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
-					"\"$(SRCROOT)/$(TARGET_NAME)\"",
-					"\"$(SRCROOT)/$(TARGET_NAME)\"",
-					"\"$(SRCROOT)/$(TARGET_NAME)\"",
-					"\"$(SRCROOT)/$(TARGET_NAME)\"",
-					"\"$(SRCROOT)/$(TARGET_NAME)\"",
 					"\"$(SRCROOT)/$(TARGET_NAME)\"",
 				);
 				OTHER_LDFLAGS = (
