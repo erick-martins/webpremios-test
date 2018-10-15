@@ -1,4 +1,4 @@
-const target = "vivo";
+const target = "webpremios";
 
 module.exports = function (api) {
     api.cache(false);

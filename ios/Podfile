@@ -2,7 +2,7 @@
 platform :ios, '9.0'
 
 target 'Vivo' do
-  pod 'AppCenter', '~> 1.9'
+  
   pod 'AppCenter/Crashes', '~> 1.9.0'
   pod 'AppCenter/Analytics', '~> 1.9.0'
   pod 'AppCenterReactNativeShared', '~> 1.8.1'
@@ -15,7 +15,7 @@ target 'Vivo' do
 end
 
 target 'WebPremios' do
-  pod 'AppCenter', '~> 1.9'
+  
   pod 'AppCenter/Crashes', '~> 1.9.0'
   pod 'AppCenter/Analytics', '~> 1.9.0'
   pod 'AppCenterReactNativeShared', '~> 1.8.1'
