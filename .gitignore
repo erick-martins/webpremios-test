@@ -6,3 +6,4 @@ ios/build/**/*
 android/build/**/*
 android/app/build/**/*
 .expo
+.gradle
