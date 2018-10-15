@@ -783,6 +783,8 @@
     <string name="abc_shareactionprovider_share_with">Share with</string>
     <string name="abc_shareactionprovider_share_with_application">Share with <ns1:g example="Mail" id="application_name">%s</ns1:g></string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string moduleConfig="true" name="appCenterAnalytics_whenToEnableAnalytics">ALWAYS_SEND</string>
+    <string moduleConfig="true" name="appCenterCrashes_whenToSendCrashes">ALWAYS_SEND</string>
     <string name="app_campaign_id">30207</string>
     <string name="app_host">webpremios.com.br</string>
     <string name="app_name">WebPremios Test</string>
