@@ -1,4 +1,0 @@
-#Mon Oct 15 12:53:02 BRT 2018
-base.0=/Users/erick.pinheiro/Documents/Apps/WebPrêmios Test App/WebPremiosTestApp/app/android/app/build/intermediates/transforms/dexMerger/debug/0
-renamed.0=classes.dex
-path.0=classes.dex

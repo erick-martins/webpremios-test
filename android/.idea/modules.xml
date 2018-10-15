@@ -4,6 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/WebPremiosTestApp.iml" filepath="$PROJECT_DIR$/WebPremiosTestApp.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/appcenter/android/appcenter.iml" filepath="$PROJECT_DIR$/../node_modules/appcenter/android/appcenter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/appcenter-analytics/android/appcenter-analytics.iml" filepath="$PROJECT_DIR$/../node_modules/appcenter-analytics/android/appcenter-analytics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/appcenter-crashes/android/appcenter-crashes.iml" filepath="$PROJECT_DIR$/../node_modules/appcenter-crashes/android/appcenter-crashes.iml" />
       <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-config/android/react-native-config.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-config/android/react-native-config.iml" />
       <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-localization/android/react-native-localization.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-localization/android/react-native-localization.iml" />
       <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-navigation/android/app/react-native-navigation.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-navigation/android/app/react-native-navigation.iml" />

@@ -4,14 +4,21 @@ ADDED from /Users/erick.pinheiro/Documents/Apps/WebPrêmios Test App/WebPremiosT
 INJECTED from /Users/erick.pinheiro/Documents/Apps/WebPrêmios Test App/WebPremiosTestApp/app/android/app/src/main/AndroidManifest.xml:1:1-26:12
 INJECTED from /Users/erick.pinheiro/Documents/Apps/WebPrêmios Test App/WebPremiosTestApp/app/android/app/src/main/AndroidManifest.xml:1:1-26:12
 INJECTED from /Users/erick.pinheiro/Documents/Apps/WebPrêmios Test App/WebPremiosTestApp/app/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-config] /Users/erick.pinheiro/Documents/Apps/WebPrêmios Test App/WebPremiosTestApp/app/node_modules/react-native-config/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:appcenter-crashes] /Users/erick.pinheiro/Documents/Apps/WebPrêmios Test App/WebPremiosTestApp/app/node_modules/appcenter-crashes/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:appcenter-analytics] /Users/erick.pinheiro/Documents/Apps/WebPrêmios Test App/WebPremiosTestApp/app/node_modules/appcenter-analytics/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:appcenter] /Users/erick.pinheiro/Documents/Apps/WebPrêmios Test App/WebPremiosTestApp/app/node_modules/appcenter/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [:react-native-navigation] /Users/erick.pinheiro/Documents/Apps/WebPrêmios Test App/WebPremiosTestApp/app/node_modules/react-native-navigation/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-20:12
 MERGED from [:react-native-localization] /Users/erick.pinheiro/Documents/Apps/WebPrêmios Test App/WebPremiosTestApp/app/node_modules/react-native-localization/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
-MERGED from [:react-native-config] /Users/erick.pinheiro/Documents/Apps/WebPrêmios Test App/WebPremiosTestApp/app/node_modules/react-native-config/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [com.facebook.react:react-native:0.56.0] /Users/erick.pinheiro/.gradle/caches/transforms-1/files-1.1/react-native-0.56.0.aar/902b8f89f77168ade344c7e14caa344d/AndroidManifest.xml:2:1-15:12
+MERGED from [com.microsoft.appcenter.reactnative:appcenter-react-native:1.8.1] /Users/erick.pinheiro/.gradle/caches/transforms-1/files-1.1/appcenter-react-native-1.8.1.aar/7399e65b7c3116d92c81a3d8d1580c59/AndroidManifest.xml:2:1-11:12
 MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] /Users/erick.pinheiro/.gradle/caches/transforms-1/files-1.1/material-menu-toolbar-1.5.4.aar/8883683f2df8ba8579946eaac5210065/AndroidManifest.xml:2:1-14:12
 MERGED from [com.aurelhubert:ahbottomnavigation:2.0.6] /Users/erick.pinheiro/.gradle/caches/transforms-1/files-1.1/ahbottomnavigation-2.0.6.aar/c43f8b5eebaba0c781dccbbeb351bd5d/AndroidManifest.xml:2:1-13:12
 MERGED from [com.android.support:design:27.1.1] /Users/erick.pinheiro/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/059ad487dd59b8de79a6e9f83f180476/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/erick.pinheiro/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/69110395e4c8ded8a7d95d6fcb2428ef/AndroidManifest.xml:17:1-22:12
+MERGED from [com.microsoft.appcenter:appcenter-crashes:1.8.0] /Users/erick.pinheiro/.gradle/caches/transforms-1/files-1.1/appcenter-crashes-1.8.0.aar/3803f0e719f4173f79c67ccd00e2a47d/AndroidManifest.xml:2:1-11:12
+MERGED from [com.microsoft.appcenter:appcenter-analytics:1.8.0] /Users/erick.pinheiro/.gradle/caches/transforms-1/files-1.1/appcenter-analytics-1.8.0.aar/0cc6475813d8704b23c2e7b7b3620947/AndroidManifest.xml:2:1-11:12
+MERGED from [com.microsoft.appcenter:appcenter:1.8.0] /Users/erick.pinheiro/.gradle/caches/transforms-1/files-1.1/appcenter-1.8.0.aar/396df3d4bdae24e7c2dcc013cb380bab/AndroidManifest.xml:2:1-14:12
 MERGED from [com.android.support:support-v4:27.1.1] /Users/erick.pinheiro/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/8e8b43c4fa715298b66c0c74ef8ef0d7/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-fragment:27.1.1] /Users/erick.pinheiro/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/e447ccd465f7fe61ce2e5a253efcf780/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/erick.pinheiro/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/d97cbdbcf93dfbf084e28aa526fdb5d8/AndroidManifest.xml:17:1-22:12
@@ -55,6 +62,8 @@ INJECTED from /Users/erick.pinheiro/Documents/Apps/WebPrêmios Test App/WebPremi
 		ADDED from /Users/erick.pinheiro/Documents/Apps/WebPrêmios Test App/WebPremiosTestApp/app/android/app/src/main/AndroidManifest.xml:1:11-69
 uses-permission#android.permission.INTERNET
 ADDED from /Users/erick.pinheiro/Documents/Apps/WebPrêmios Test App/WebPremiosTestApp/app/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [com.microsoft.appcenter:appcenter:1.8.0] /Users/erick.pinheiro/.gradle/caches/transforms-1/files-1.1/appcenter-1.8.0.aar/396df3d4bdae24e7c2dcc013cb380bab/AndroidManifest.xml:11:5-67
+MERGED from [com.microsoft.appcenter:appcenter:1.8.0] /Users/erick.pinheiro/.gradle/caches/transforms-1/files-1.1/appcenter-1.8.0.aar/396df3d4bdae24e7c2dcc013cb380bab/AndroidManifest.xml:11:5-67
 	android:name
 		ADDED from /Users/erick.pinheiro/Documents/Apps/WebPrêmios Test App/WebPremiosTestApp/app/android/app/src/main/AndroidManifest.xml:4:22-64
 uses-permission#android.permission.SYSTEM_ALERT_WINDOW
@@ -121,14 +130,22 @@ uses-sdk
 INJECTED from /Users/erick.pinheiro/Documents/Apps/WebPrêmios Test App/WebPremiosTestApp/app/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/erick.pinheiro/Documents/Apps/WebPrêmios Test App/WebPremiosTestApp/app/android/app/src/main/AndroidManifest.xml
 INJECTED from /Users/erick.pinheiro/Documents/Apps/WebPrêmios Test App/WebPremiosTestApp/app/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-config] /Users/erick.pinheiro/Documents/Apps/WebPrêmios Test App/WebPremiosTestApp/app/node_modules/react-native-config/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-config] /Users/erick.pinheiro/Documents/Apps/WebPrêmios Test App/WebPremiosTestApp/app/node_modules/react-native-config/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:appcenter-crashes] /Users/erick.pinheiro/Documents/Apps/WebPrêmios Test App/WebPremiosTestApp/app/node_modules/appcenter-crashes/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:appcenter-crashes] /Users/erick.pinheiro/Documents/Apps/WebPrêmios Test App/WebPremiosTestApp/app/node_modules/appcenter-crashes/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:appcenter-analytics] /Users/erick.pinheiro/Documents/Apps/WebPrêmios Test App/WebPremiosTestApp/app/node_modules/appcenter-analytics/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:appcenter-analytics] /Users/erick.pinheiro/Documents/Apps/WebPrêmios Test App/WebPremiosTestApp/app/node_modules/appcenter-analytics/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:appcenter] /Users/erick.pinheiro/Documents/Apps/WebPrêmios Test App/WebPremiosTestApp/app/node_modules/appcenter/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:appcenter] /Users/erick.pinheiro/Documents/Apps/WebPrêmios Test App/WebPremiosTestApp/app/node_modules/appcenter/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-navigation] /Users/erick.pinheiro/Documents/Apps/WebPrêmios Test App/WebPremiosTestApp/app/node_modules/react-native-navigation/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-navigation] /Users/erick.pinheiro/Documents/Apps/WebPrêmios Test App/WebPremiosTestApp/app/node_modules/react-native-navigation/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-localization] /Users/erick.pinheiro/Documents/Apps/WebPrêmios Test App/WebPremiosTestApp/app/node_modules/react-native-localization/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-localization] /Users/erick.pinheiro/Documents/Apps/WebPrêmios Test App/WebPremiosTestApp/app/node_modules/react-native-localization/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-config] /Users/erick.pinheiro/Documents/Apps/WebPrêmios Test App/WebPremiosTestApp/app/node_modules/react-native-config/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-config] /Users/erick.pinheiro/Documents/Apps/WebPrêmios Test App/WebPremiosTestApp/app/node_modules/react-native-config/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.react:react-native:0.56.0] /Users/erick.pinheiro/.gradle/caches/transforms-1/files-1.1/react-native-0.56.0.aar/902b8f89f77168ade344c7e14caa344d/AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.react:react-native:0.56.0] /Users/erick.pinheiro/.gradle/caches/transforms-1/files-1.1/react-native-0.56.0.aar/902b8f89f77168ade344c7e14caa344d/AndroidManifest.xml:7:5-9:41
+MERGED from [com.microsoft.appcenter.reactnative:appcenter-react-native:1.8.1] /Users/erick.pinheiro/.gradle/caches/transforms-1/files-1.1/appcenter-react-native-1.8.1.aar/7399e65b7c3116d92c81a3d8d1580c59/AndroidManifest.xml:7:5-9:41
+MERGED from [com.microsoft.appcenter.reactnative:appcenter-react-native:1.8.1] /Users/erick.pinheiro/.gradle/caches/transforms-1/files-1.1/appcenter-react-native-1.8.1.aar/7399e65b7c3116d92c81a3d8d1580c59/AndroidManifest.xml:7:5-9:41
 MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] /Users/erick.pinheiro/.gradle/caches/transforms-1/files-1.1/material-menu-toolbar-1.5.4.aar/8883683f2df8ba8579946eaac5210065/AndroidManifest.xml:8:5-10:41
 MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] /Users/erick.pinheiro/.gradle/caches/transforms-1/files-1.1/material-menu-toolbar-1.5.4.aar/8883683f2df8ba8579946eaac5210065/AndroidManifest.xml:8:5-10:41
 MERGED from [com.aurelhubert:ahbottomnavigation:2.0.6] /Users/erick.pinheiro/.gradle/caches/transforms-1/files-1.1/ahbottomnavigation-2.0.6.aar/c43f8b5eebaba0c781dccbbeb351bd5d/AndroidManifest.xml:7:5-9:41
@@ -137,6 +154,12 @@ MERGED from [com.android.support:design:27.1.1] /Users/erick.pinheiro/.gradle/ca
 MERGED from [com.android.support:design:27.1.1] /Users/erick.pinheiro/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/059ad487dd59b8de79a6e9f83f180476/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/erick.pinheiro/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/69110395e4c8ded8a7d95d6fcb2428ef/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/erick.pinheiro/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/69110395e4c8ded8a7d95d6fcb2428ef/AndroidManifest.xml:20:5-44
+MERGED from [com.microsoft.appcenter:appcenter-crashes:1.8.0] /Users/erick.pinheiro/.gradle/caches/transforms-1/files-1.1/appcenter-crashes-1.8.0.aar/3803f0e719f4173f79c67ccd00e2a47d/AndroidManifest.xml:7:5-9:41
+MERGED from [com.microsoft.appcenter:appcenter-crashes:1.8.0] /Users/erick.pinheiro/.gradle/caches/transforms-1/files-1.1/appcenter-crashes-1.8.0.aar/3803f0e719f4173f79c67ccd00e2a47d/AndroidManifest.xml:7:5-9:41
+MERGED from [com.microsoft.appcenter:appcenter-analytics:1.8.0] /Users/erick.pinheiro/.gradle/caches/transforms-1/files-1.1/appcenter-analytics-1.8.0.aar/0cc6475813d8704b23c2e7b7b3620947/AndroidManifest.xml:7:5-9:41
+MERGED from [com.microsoft.appcenter:appcenter-analytics:1.8.0] /Users/erick.pinheiro/.gradle/caches/transforms-1/files-1.1/appcenter-analytics-1.8.0.aar/0cc6475813d8704b23c2e7b7b3620947/AndroidManifest.xml:7:5-9:41
+MERGED from [com.microsoft.appcenter:appcenter:1.8.0] /Users/erick.pinheiro/.gradle/caches/transforms-1/files-1.1/appcenter-1.8.0.aar/396df3d4bdae24e7c2dcc013cb380bab/AndroidManifest.xml:7:5-9:41
+MERGED from [com.microsoft.appcenter:appcenter:1.8.0] /Users/erick.pinheiro/.gradle/caches/transforms-1/files-1.1/appcenter-1.8.0.aar/396df3d4bdae24e7c2dcc013cb380bab/AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:support-v4:27.1.1] /Users/erick.pinheiro/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/8e8b43c4fa715298b66c0c74ef8ef0d7/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-v4:27.1.1] /Users/erick.pinheiro/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/8e8b43c4fa715298b66c0c74ef8ef0d7/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-fragment:27.1.1] /Users/erick.pinheiro/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/e447ccd465f7fe61ce2e5a253efcf780/AndroidManifest.xml:20:5-44
@@ -199,6 +222,10 @@ ADDED from [:react-native-navigation] /Users/erick.pinheiro/Documents/Apps/WebPr
 		ADDED from [:react-native-navigation] /Users/erick.pinheiro/Documents/Apps/WebPrêmios Test App/WebPremiosTestApp/app/node_modules/react-native-navigation/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:14:13-83
 	android:name
 		ADDED from [:react-native-navigation] /Users/erick.pinheiro/Documents/Apps/WebPrêmios Test App/WebPremiosTestApp/app/node_modules/react-native-navigation/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:13:13-84
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.microsoft.appcenter:appcenter:1.8.0] /Users/erick.pinheiro/.gradle/caches/transforms-1/files-1.1/appcenter-1.8.0.aar/396df3d4bdae24e7c2dcc013cb380bab/AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from [com.microsoft.appcenter:appcenter:1.8.0] /Users/erick.pinheiro/.gradle/caches/transforms-1/files-1.1/appcenter-1.8.0.aar/396df3d4bdae24e7c2dcc013cb380bab/AndroidManifest.xml:12:22-76
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
 IMPLIED from /Users/erick.pinheiro/Documents/Apps/WebPrêmios Test App/WebPremiosTestApp/app/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
 uses-permission#android.permission.READ_PHONE_STATE
