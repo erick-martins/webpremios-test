@@ -141,20 +141,11 @@ android {
     compileSdkVersion rootProject.ext.compileSdkVersion
 
 
-    def environment = 'environment'
     def product = 'product'
-    flavorDimensions environment, product
+    flavorDimensions product
 
     productFlavors {
 
-        development {
-            dimension environment
-            versionName rootProject.ext.versionName + versionBeta + '-qa-' + 'git rev-parse --short HEAD'.execute().text.trim()
-            ext.betaDistributionGroupAliases = 'beta'
-        }
-        production {
-            dimension environment
-        }
 
         webpremios {
             dimension product
