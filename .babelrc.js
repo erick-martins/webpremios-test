@@ -1,6 +1,6 @@
-module.exports = function (api) {
+const target = "vivo";
 
-    const target = "nestle";
+module.exports = function (api) {
     api.cache(false);
     //console.log(process.env);
     const presets = [
