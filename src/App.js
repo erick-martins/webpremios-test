@@ -48,7 +48,7 @@ export default class App extends React.Component {
     return (
       <View style={styles.container}>
         <Text>Open up App.js to start working on your app!</Text>
-        <Text>You are viewing app!</Text>
+        <Text>You are viewing app!!</Text>
 
         { this.renderBottomBar() }
       </View>
