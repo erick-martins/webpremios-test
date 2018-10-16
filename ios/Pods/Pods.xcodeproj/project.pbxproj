@@ -7,9 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		9D9334D702240BBE9DBA16FE6E65ACB5 /* Pods-Vivo-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 90747599333701589A37D43E1851A377 /* Pods-Vivo-dummy.m */; };
-		ADB33AACC1258049CAF657B668770B54 /* Pods-WebPremiosTestAppTests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 8D5246995F3975F36335FA7B977CD86C /* Pods-WebPremiosTestAppTests-dummy.m */; };
-		EC8A41D9D54B22D1CDDBFA58EE41F461 /* Pods-WebPremios-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 0DF8A7F8A93F443BB5DB9C1B206D5FE3 /* Pods-WebPremios-dummy.m */; };
+		393222098F95CEC9C930A3AAF84C85BA /* Pods-Nestle-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 4BDAAA0A1F7C52044BA00851B8930589 /* Pods-Nestle-dummy.m */; };
+		ADB33AACC1258049CAF657B668770B54 /* Pods-WebPremiosTestAppTests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = A2C218C4ACA659B6B861A0B50413B0A7 /* Pods-WebPremiosTestAppTests-dummy.m */; };
+		EC8A41D9D54B22D1CDDBFA58EE41F461 /* Pods-WebPremios-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 9DEF19593C16F63671A38885937329EA /* Pods-WebPremios-dummy.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -23,35 +23,35 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		0AEA40C84589694FB68F0807C8347122 /* Pods-WebPremiosTestAppTests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-WebPremiosTestAppTests-frameworks.sh"; sourceTree = "<group>"; };
-		0DF8A7F8A93F443BB5DB9C1B206D5FE3 /* Pods-WebPremios-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-WebPremios-dummy.m"; sourceTree = "<group>"; };
-		12EB0E32E71FD6B21254A74884554770 /* Pods-Vivo.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Vivo.debug.xcconfig"; sourceTree = "<group>"; };
-		14AAC8B840DD5B7D8F7A27588EE1DD4D /* Pods-Vivo-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-Vivo-acknowledgements.markdown"; sourceTree = "<group>"; };
-		172675C3321733AF9F2B254AF8731A75 /* libPods-WebPremiosTestAppTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = "libPods-WebPremiosTestAppTests.a"; path = "libPods-WebPremiosTestAppTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		138817039DAB108D326E475B2E9FE616 /* Pods-Nestle-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-Nestle-acknowledgements.markdown"; sourceTree = "<group>"; };
 		1FF8CBE3D70C3B5EE02BF7F1402952A2 /* AppCenterCrashes.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppCenterCrashes.framework; path = "AppCenter-SDK-Apple/iOS/AppCenterCrashes.framework"; sourceTree = "<group>"; };
 		2E280B58529AEBA76B5F11C0705D0856 /* AppCenterReactNativeShared.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppCenterReactNativeShared.framework; path = AppCenterReactNativeShared/AppCenterReactNativeShared.framework; sourceTree = "<group>"; };
-		3DAF6D202991C469DF1CCE82D1FE25C9 /* Pods-WebPremios-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-WebPremios-resources.sh"; sourceTree = "<group>"; };
-		3F443F90AEFA8FC6BCD79417D0200799 /* Pods-WebPremios.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-WebPremios.debug.xcconfig"; sourceTree = "<group>"; };
-		53677DD85F3BAA09DF372DFD1123CB07 /* Pods-WebPremiosTestAppTests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-WebPremiosTestAppTests-resources.sh"; sourceTree = "<group>"; };
-		5654D2595151C3785DEBC6CDFBED1F93 /* libPods-Vivo.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = "libPods-Vivo.a"; path = "libPods-Vivo.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3A164BB067B5FA7C9B7C52D19DC388B8 /* Pods-Nestle-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-Nestle-acknowledgements.plist"; sourceTree = "<group>"; };
+		4BDAAA0A1F7C52044BA00851B8930589 /* Pods-Nestle-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-Nestle-dummy.m"; sourceTree = "<group>"; };
+		5A80338657D5893CB34A9A1F265A7D7D /* Pods-WebPremios-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-WebPremios-acknowledgements.plist"; sourceTree = "<group>"; };
+		5DBC0CA66512A6E852A5BEB676351F6F /* Pods-WebPremiosTestAppTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-WebPremiosTestAppTests.release.xcconfig"; sourceTree = "<group>"; };
 		697057EB6F6A315777E7EA941A2AAF3B /* AppCenterAnalytics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppCenterAnalytics.framework; path = "AppCenter-SDK-Apple/iOS/AppCenterAnalytics.framework"; sourceTree = "<group>"; };
-		76487F07985E6BDBCB097B2DCF74C53E /* Pods-WebPremios.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-WebPremios.release.xcconfig"; sourceTree = "<group>"; };
-		7D152243B6F9E88408C710BC4D1F1B2F /* Pods-WebPremiosTestAppTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-WebPremiosTestAppTests.debug.xcconfig"; sourceTree = "<group>"; };
-		80AF9E41BEA1A9588C5FDDDCEB6A078D /* Pods-WebPremios-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-WebPremios-acknowledgements.markdown"; sourceTree = "<group>"; };
-		8216173AC9795468B57B8ABD494C5C98 /* Pods-WebPremios-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-WebPremios-acknowledgements.plist"; sourceTree = "<group>"; };
-		8D5246995F3975F36335FA7B977CD86C /* Pods-WebPremiosTestAppTests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-WebPremiosTestAppTests-dummy.m"; sourceTree = "<group>"; };
-		90747599333701589A37D43E1851A377 /* Pods-Vivo-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-Vivo-dummy.m"; sourceTree = "<group>"; };
+		6E5060BFD710CCF533B694C277EFFD40 /* Pods-WebPremiosTestAppTests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-WebPremiosTestAppTests-resources.sh"; sourceTree = "<group>"; };
+		861301D9084E176F991D6C4A6C944783 /* Pods-WebPremiosTestAppTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-WebPremiosTestAppTests.debug.xcconfig"; sourceTree = "<group>"; };
+		8BC445E4E6831DBA2339860943BF2516 /* Pods-WebPremiosTestAppTests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-WebPremiosTestAppTests-acknowledgements.plist"; sourceTree = "<group>"; };
 		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		ACAEE0A4981430EE82C0C339DBFC2FC8 /* Pods-Vivo.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Vivo.release.xcconfig"; sourceTree = "<group>"; };
-		B803867C6321C13A63802B236A3E1DC3 /* Pods-Vivo-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-Vivo-acknowledgements.plist"; sourceTree = "<group>"; };
-		BA2AE7A6E7CD26DE367D1001C56C8724 /* Pods-WebPremiosTestAppTests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-WebPremiosTestAppTests-acknowledgements.plist"; sourceTree = "<group>"; };
-		C8001F6E8504BA5AC8853D2F4C413F1B /* libPods-WebPremios.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = "libPods-WebPremios.a"; path = "libPods-WebPremios.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		D7127210B947E4A6105ADDE5F7322C46 /* Pods-WebPremios-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-WebPremios-frameworks.sh"; sourceTree = "<group>"; };
-		D88E60F58EE210EA21CF4A86EACC4FB4 /* Pods-Vivo-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-Vivo-resources.sh"; sourceTree = "<group>"; };
+		96CB1DB96AC1616C157D089C065B987D /* Pods-Nestle-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-Nestle-resources.sh"; sourceTree = "<group>"; };
+		9DEF19593C16F63671A38885937329EA /* Pods-WebPremios-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-WebPremios-dummy.m"; sourceTree = "<group>"; };
+		A2C218C4ACA659B6B861A0B50413B0A7 /* Pods-WebPremiosTestAppTests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-WebPremiosTestAppTests-dummy.m"; sourceTree = "<group>"; };
+		AD363B320291C5B59388C7C9CC4CA113 /* Pods-Nestle-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-Nestle-frameworks.sh"; sourceTree = "<group>"; };
+		B106DDDAAD0D6AA4AB627A8868090266 /* libPods-Nestle.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = "libPods-Nestle.a"; path = "libPods-Nestle.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		B2867A4EFCFCDBC901C465702AD9947F /* Pods-WebPremios.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-WebPremios.debug.xcconfig"; sourceTree = "<group>"; };
+		B7069038ED5E5CE4AC6D13505ACDEC1C /* Pods-Nestle.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Nestle.release.xcconfig"; sourceTree = "<group>"; };
+		D21C87828FD02CD22142220BE2393C5E /* Pods-Nestle.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Nestle.debug.xcconfig"; sourceTree = "<group>"; };
+		D6F7028C5A95196575C9556D325F8846 /* libPods-WebPremiosTestAppTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = "libPods-WebPremiosTestAppTests.a"; path = "libPods-WebPremiosTestAppTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D6FA2ECAC12105F5BA46169906F07FD6 /* Pods-WebPremios-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-WebPremios-resources.sh"; sourceTree = "<group>"; };
 		DC65AFFB7964130E42157D207BE3A6DE /* AppCenter.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppCenter.framework; path = "AppCenter-SDK-Apple/iOS/AppCenter.framework"; sourceTree = "<group>"; };
-		EC6495FA1E983FF52C3BF3CE5495B6BF /* Pods-Vivo-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-Vivo-frameworks.sh"; sourceTree = "<group>"; };
-		F8BECCD2F99437A73912761644108C78 /* Pods-WebPremiosTestAppTests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-WebPremiosTestAppTests-acknowledgements.markdown"; sourceTree = "<group>"; };
-		F9942E5F558D2025D5AA4C2C446BC767 /* Pods-WebPremiosTestAppTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-WebPremiosTestAppTests.release.xcconfig"; sourceTree = "<group>"; };
+		DF11046BA75CCC657F4960A35FD5F9CE /* Pods-WebPremios.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-WebPremios.release.xcconfig"; sourceTree = "<group>"; };
+		DF6F74F15E05192F4E7991F6202D40A0 /* Pods-WebPremiosTestAppTests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-WebPremiosTestAppTests-acknowledgements.markdown"; sourceTree = "<group>"; };
+		E085844A5908B85281CCE5BA3F8328BE /* Pods-WebPremios-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-WebPremios-frameworks.sh"; sourceTree = "<group>"; };
+		E9D4855A3748478721825B8F05526781 /* Pods-WebPremiosTestAppTests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-WebPremiosTestAppTests-frameworks.sh"; sourceTree = "<group>"; };
+		ED93AC2B45A31AFA84009B9F1EC19016 /* libPods-WebPremios.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = "libPods-WebPremios.a"; path = "libPods-WebPremios.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		F055C13575771C58E5CC83CD0CC82010 /* Pods-WebPremios-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-WebPremios-acknowledgements.markdown"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,7 +62,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		466AF39A8709221AA3C6EE3E7C36B887 /* Frameworks */ = {
+		B6D503C1145175E0D3EC11AB10E42488 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -87,11 +87,36 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
+		0F1308057E81C6F0A2C847E5D701537B /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				B106DDDAAD0D6AA4AB627A8868090266 /* libPods-Nestle.a */,
+				ED93AC2B45A31AFA84009B9F1EC19016 /* libPods-WebPremios.a */,
+				D6F7028C5A95196575C9556D325F8846 /* libPods-WebPremiosTestAppTests.a */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
 		0F8D2E47FE03D3B91B51069F7C273AF4 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
 			);
 			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		1594AD16F4EC67806200AE5463D92A4A /* Pods-WebPremiosTestAppTests */ = {
+			isa = PBXGroup;
+			children = (
+				DF6F74F15E05192F4E7991F6202D40A0 /* Pods-WebPremiosTestAppTests-acknowledgements.markdown */,
+				8BC445E4E6831DBA2339860943BF2516 /* Pods-WebPremiosTestAppTests-acknowledgements.plist */,
+				A2C218C4ACA659B6B861A0B50413B0A7 /* Pods-WebPremiosTestAppTests-dummy.m */,
+				E9D4855A3748478721825B8F05526781 /* Pods-WebPremiosTestAppTests-frameworks.sh */,
+				6E5060BFD710CCF533B694C277EFFD40 /* Pods-WebPremiosTestAppTests-resources.sh */,
+				861301D9084E176F991D6C4A6C944783 /* Pods-WebPremiosTestAppTests.debug.xcconfig */,
+				5DBC0CA66512A6E852A5BEB676351F6F /* Pods-WebPremiosTestAppTests.release.xcconfig */,
+			);
+			name = "Pods-WebPremiosTestAppTests";
+			path = "Target Support Files/Pods-WebPremiosTestAppTests";
 			sourceTree = "<group>";
 		};
 		2299AF501E253B95F2AE1FAD00A3B182 /* Crashes */ = {
@@ -126,44 +151,29 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		5C841B0C9FAE8ACAEAB6BCE4A3064C37 /* Pods-WebPremios */ = {
+		4DC4D12F4C7BDF3FAB54D8BB3A52B77B /* Pods-WebPremios */ = {
 			isa = PBXGroup;
 			children = (
-				80AF9E41BEA1A9588C5FDDDCEB6A078D /* Pods-WebPremios-acknowledgements.markdown */,
-				8216173AC9795468B57B8ABD494C5C98 /* Pods-WebPremios-acknowledgements.plist */,
-				0DF8A7F8A93F443BB5DB9C1B206D5FE3 /* Pods-WebPremios-dummy.m */,
-				D7127210B947E4A6105ADDE5F7322C46 /* Pods-WebPremios-frameworks.sh */,
-				3DAF6D202991C469DF1CCE82D1FE25C9 /* Pods-WebPremios-resources.sh */,
-				3F443F90AEFA8FC6BCD79417D0200799 /* Pods-WebPremios.debug.xcconfig */,
-				76487F07985E6BDBCB097B2DCF74C53E /* Pods-WebPremios.release.xcconfig */,
+				F055C13575771C58E5CC83CD0CC82010 /* Pods-WebPremios-acknowledgements.markdown */,
+				5A80338657D5893CB34A9A1F265A7D7D /* Pods-WebPremios-acknowledgements.plist */,
+				9DEF19593C16F63671A38885937329EA /* Pods-WebPremios-dummy.m */,
+				E085844A5908B85281CCE5BA3F8328BE /* Pods-WebPremios-frameworks.sh */,
+				D6FA2ECAC12105F5BA46169906F07FD6 /* Pods-WebPremios-resources.sh */,
+				B2867A4EFCFCDBC901C465702AD9947F /* Pods-WebPremios.debug.xcconfig */,
+				DF11046BA75CCC657F4960A35FD5F9CE /* Pods-WebPremios.release.xcconfig */,
 			);
 			name = "Pods-WebPremios";
 			path = "Target Support Files/Pods-WebPremios";
 			sourceTree = "<group>";
 		};
-		74691C45ACEED7CC35FC49BDD6AD5E4D /* Pods-WebPremiosTestAppTests */ = {
+		55BEE7C87C5F9F51A5147979952E8348 /* Targets Support Files */ = {
 			isa = PBXGroup;
 			children = (
-				F8BECCD2F99437A73912761644108C78 /* Pods-WebPremiosTestAppTests-acknowledgements.markdown */,
-				BA2AE7A6E7CD26DE367D1001C56C8724 /* Pods-WebPremiosTestAppTests-acknowledgements.plist */,
-				8D5246995F3975F36335FA7B977CD86C /* Pods-WebPremiosTestAppTests-dummy.m */,
-				0AEA40C84589694FB68F0807C8347122 /* Pods-WebPremiosTestAppTests-frameworks.sh */,
-				53677DD85F3BAA09DF372DFD1123CB07 /* Pods-WebPremiosTestAppTests-resources.sh */,
-				7D152243B6F9E88408C710BC4D1F1B2F /* Pods-WebPremiosTestAppTests.debug.xcconfig */,
-				F9942E5F558D2025D5AA4C2C446BC767 /* Pods-WebPremiosTestAppTests.release.xcconfig */,
+				E5D2312EB19EDD96DFE3E2F003AD1EB5 /* Pods-Nestle */,
+				4DC4D12F4C7BDF3FAB54D8BB3A52B77B /* Pods-WebPremios */,
+				1594AD16F4EC67806200AE5463D92A4A /* Pods-WebPremiosTestAppTests */,
 			);
-			name = "Pods-WebPremiosTestAppTests";
-			path = "Target Support Files/Pods-WebPremiosTestAppTests";
-			sourceTree = "<group>";
-		};
-		7980F491B1795C748E810A50DF1EFB3A /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				5654D2595151C3785DEBC6CDFBED1F93 /* libPods-Vivo.a */,
-				C8001F6E8504BA5AC8853D2F4C413F1B /* libPods-WebPremios.a */,
-				172675C3321733AF9F2B254AF8731A75 /* libPods-WebPremiosTestAppTests.a */,
-			);
-			name = Products;
+			name = "Targets Support Files";
 			sourceTree = "<group>";
 		};
 		7DB346D0F39D3F0E887471402A8071AB = {
@@ -172,8 +182,8 @@
 				93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */,
 				0F8D2E47FE03D3B91B51069F7C273AF4 /* Frameworks */,
 				B1C0FD4C526B54B6F7B5EA76C32A7B4C /* Pods */,
-				7980F491B1795C748E810A50DF1EFB3A /* Products */,
-				9BB32DF7BF0C9A14C88FBFB49F223300 /* Targets Support Files */,
+				0F1308057E81C6F0A2C847E5D701537B /* Products */,
+				55BEE7C87C5F9F51A5147979952E8348 /* Targets Support Files */,
 			);
 			sourceTree = "<group>";
 		};
@@ -183,31 +193,6 @@
 				697057EB6F6A315777E7EA941A2AAF3B /* AppCenterAnalytics.framework */,
 			);
 			name = Frameworks;
-			sourceTree = "<group>";
-		};
-		9BB32DF7BF0C9A14C88FBFB49F223300 /* Targets Support Files */ = {
-			isa = PBXGroup;
-			children = (
-				ABDA1385557E4662D46706E61521722C /* Pods-Vivo */,
-				5C841B0C9FAE8ACAEAB6BCE4A3064C37 /* Pods-WebPremios */,
-				74691C45ACEED7CC35FC49BDD6AD5E4D /* Pods-WebPremiosTestAppTests */,
-			);
-			name = "Targets Support Files";
-			sourceTree = "<group>";
-		};
-		ABDA1385557E4662D46706E61521722C /* Pods-Vivo */ = {
-			isa = PBXGroup;
-			children = (
-				14AAC8B840DD5B7D8F7A27588EE1DD4D /* Pods-Vivo-acknowledgements.markdown */,
-				B803867C6321C13A63802B236A3E1DC3 /* Pods-Vivo-acknowledgements.plist */,
-				90747599333701589A37D43E1851A377 /* Pods-Vivo-dummy.m */,
-				EC6495FA1E983FF52C3BF3CE5495B6BF /* Pods-Vivo-frameworks.sh */,
-				D88E60F58EE210EA21CF4A86EACC4FB4 /* Pods-Vivo-resources.sh */,
-				12EB0E32E71FD6B21254A74884554770 /* Pods-Vivo.debug.xcconfig */,
-				ACAEE0A4981430EE82C0C339DBFC2FC8 /* Pods-Vivo.release.xcconfig */,
-			);
-			name = "Pods-Vivo";
-			path = "Target Support Files/Pods-Vivo";
 			sourceTree = "<group>";
 		};
 		B1C0FD4C526B54B6F7B5EA76C32A7B4C /* Pods */ = {
@@ -230,6 +215,21 @@
 			path = AppCenter;
 			sourceTree = "<group>";
 		};
+		E5D2312EB19EDD96DFE3E2F003AD1EB5 /* Pods-Nestle */ = {
+			isa = PBXGroup;
+			children = (
+				138817039DAB108D326E475B2E9FE616 /* Pods-Nestle-acknowledgements.markdown */,
+				3A164BB067B5FA7C9B7C52D19DC388B8 /* Pods-Nestle-acknowledgements.plist */,
+				4BDAAA0A1F7C52044BA00851B8930589 /* Pods-Nestle-dummy.m */,
+				AD363B320291C5B59388C7C9CC4CA113 /* Pods-Nestle-frameworks.sh */,
+				96CB1DB96AC1616C157D089C065B987D /* Pods-Nestle-resources.sh */,
+				D21C87828FD02CD22142220BE2393C5E /* Pods-Nestle.debug.xcconfig */,
+				B7069038ED5E5CE4AC6D13505ACDEC1C /* Pods-Nestle.release.xcconfig */,
+			);
+			name = "Pods-Nestle";
+			path = "Target Support Files/Pods-Nestle";
+			sourceTree = "<group>";
+		};
 		F84ACEF4E4D3666C3A595115D01D3868 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
@@ -250,6 +250,22 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
+		231AE6D138550E881CF907525B3E201D /* Pods-Nestle */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = B460E99B87618A15D0BA0E64A75E6892 /* Build configuration list for PBXNativeTarget "Pods-Nestle" */;
+			buildPhases = (
+				742F673A47640E6F485BAE770A0705EB /* Sources */,
+				B6D503C1145175E0D3EC11AB10E42488 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Pods-Nestle";
+			productName = "Pods-Nestle";
+			productReference = B106DDDAAD0D6AA4AB627A8868090266 /* libPods-Nestle.a */;
+			productType = "com.apple.product-type.library.static";
+		};
 		34B99CD691E3CBE020DCBAB0C6577B97 /* Pods-WebPremios */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = 39A91A15B5EF2AFABB4439840112492A /* Build configuration list for PBXNativeTarget "Pods-WebPremios" */;
@@ -263,23 +279,7 @@
 			);
 			name = "Pods-WebPremios";
 			productName = "Pods-WebPremios";
-			productReference = C8001F6E8504BA5AC8853D2F4C413F1B /* libPods-WebPremios.a */;
-			productType = "com.apple.product-type.library.static";
-		};
-		934818D9000CF7720F712AE7996CEF44 /* Pods-Vivo */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 7FA8CE8FBA2BCE3429A37FA0AB4AD398 /* Build configuration list for PBXNativeTarget "Pods-Vivo" */;
-			buildPhases = (
-				5EEA25A0ED392573E55B9986C269988F /* Sources */,
-				466AF39A8709221AA3C6EE3E7C36B887 /* Frameworks */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-			);
-			name = "Pods-Vivo";
-			productName = "Pods-Vivo";
-			productReference = 5654D2595151C3785DEBC6CDFBED1F93 /* libPods-Vivo.a */;
+			productReference = ED93AC2B45A31AFA84009B9F1EC19016 /* libPods-WebPremios.a */;
 			productType = "com.apple.product-type.library.static";
 		};
 		DE6D1CD1483C36F9A9F2F8F6C112F1D8 /* Pods-WebPremiosTestAppTests */ = {
@@ -296,7 +296,7 @@
 			);
 			name = "Pods-WebPremiosTestAppTests";
 			productName = "Pods-WebPremiosTestAppTests";
-			productReference = 172675C3321733AF9F2B254AF8731A75 /* libPods-WebPremiosTestAppTests.a */;
+			productReference = D6F7028C5A95196575C9556D325F8846 /* libPods-WebPremiosTestAppTests.a */;
 			productType = "com.apple.product-type.library.static";
 		};
 /* End PBXNativeTarget section */
@@ -316,11 +316,11 @@
 				en,
 			);
 			mainGroup = 7DB346D0F39D3F0E887471402A8071AB;
-			productRefGroup = 7980F491B1795C748E810A50DF1EFB3A /* Products */;
+			productRefGroup = 0F1308057E81C6F0A2C847E5D701537B /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				934818D9000CF7720F712AE7996CEF44 /* Pods-Vivo */,
+				231AE6D138550E881CF907525B3E201D /* Pods-Nestle */,
 				34B99CD691E3CBE020DCBAB0C6577B97 /* Pods-WebPremios */,
 				DE6D1CD1483C36F9A9F2F8F6C112F1D8 /* Pods-WebPremiosTestAppTests */,
 			);
@@ -344,11 +344,11 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		5EEA25A0ED392573E55B9986C269988F /* Sources */ = {
+		742F673A47640E6F485BAE770A0705EB /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9D9334D702240BBE9DBA16FE6E65ACB5 /* Pods-Vivo-dummy.m in Sources */,
+				393222098F95CEC9C930A3AAF84C85BA /* Pods-Nestle-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -427,9 +427,30 @@
 			};
 			name = Debug;
 		};
-		8D518D152C232D3CBA6B618D8BC1738E /* Release */ = {
+		668EED85F1EBED541CC8D9AAA3289C7E /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = ACAEE0A4981430EE82C0C339DBFC2FC8 /* Pods-Vivo.release.xcconfig */;
+			baseConfigurationReference = D21C87828FD02CD22142220BE2393C5E /* Pods-Nestle.debug.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				MACH_O_TYPE = staticlib;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		92994A25C034469AA61365CF8F34AF90 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = B7069038ED5E5CE4AC6D13505ACDEC1C /* Pods-Nestle.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
@@ -451,7 +472,7 @@
 		};
 		C1231DC3A0A0706D8D116E294E72E68F /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = F9942E5F558D2025D5AA4C2C446BC767 /* Pods-WebPremiosTestAppTests.release.xcconfig */;
+			baseConfigurationReference = 5DBC0CA66512A6E852A5BEB676351F6F /* Pods-WebPremiosTestAppTests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
@@ -473,7 +494,7 @@
 		};
 		D8180AF35CB90B18655E4EE4C9EBF3E8 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 76487F07985E6BDBCB097B2DCF74C53E /* Pods-WebPremios.release.xcconfig */;
+			baseConfigurationReference = DF11046BA75CCC657F4960A35FD5F9CE /* Pods-WebPremios.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
@@ -495,28 +516,7 @@
 		};
 		E44D32FCC7C4B46A0273EF410FE948A3 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 3F443F90AEFA8FC6BCD79417D0200799 /* Pods-WebPremios.debug.xcconfig */;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
-				CODE_SIGN_IDENTITY = "iPhone Developer";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
-				MACH_O_TYPE = staticlib;
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-			};
-			name = Debug;
-		};
-		EFE98BB46EF0E9AA8DFB220C0AC74EF7 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 12EB0E32E71FD6B21254A74884554770 /* Pods-Vivo.debug.xcconfig */;
+			baseConfigurationReference = B2867A4EFCFCDBC901C465702AD9947F /* Pods-WebPremios.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
@@ -537,7 +537,7 @@
 		};
 		F9F604010193889C57EADE4A3193B836 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 7D152243B6F9E88408C710BC4D1F1B2F /* Pods-WebPremiosTestAppTests.debug.xcconfig */;
+			baseConfigurationReference = 861301D9084E176F991D6C4A6C944783 /* Pods-WebPremiosTestAppTests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
@@ -644,11 +644,11 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		7FA8CE8FBA2BCE3429A37FA0AB4AD398 /* Build configuration list for PBXNativeTarget "Pods-Vivo" */ = {
+		B460E99B87618A15D0BA0E64A75E6892 /* Build configuration list for PBXNativeTarget "Pods-Nestle" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				EFE98BB46EF0E9AA8DFB220C0AC74EF7 /* Debug */,
-				8D518D152C232D3CBA6B618D8BC1738E /* Release */,
+				668EED85F1EBED541CC8D9AAA3289C7E /* Debug */,
+				92994A25C034469AA61365CF8F34AF90 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

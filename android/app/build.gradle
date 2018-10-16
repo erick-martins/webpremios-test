@@ -183,10 +183,12 @@ android {
 }
 
 dependencies {
+    compile project(':react-native-config')
+    compile project(':appcenter-crashes')
+    compile project(':appcenter-analytics')
+    compile project(':appcenter')
     implementation project(':react-native-config')
-    implementation project(':appcenter-crashes')
-    implementation project(':appcenter-analytics')
-    implementation project(':appcenter')
+
     implementation project(':react-native-navigation')
     implementation project(':react-native-localization')
     implementation project(':react-native-config')
