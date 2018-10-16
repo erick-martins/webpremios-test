@@ -8,3 +8,4 @@ android/app/build/**/*
 .expo
 .gradle
 *.log
+android/local.properties 
