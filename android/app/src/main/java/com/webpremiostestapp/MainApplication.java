@@ -4,8 +4,6 @@ import android.app.Application;
 
 import com.facebook.react.ReactApplication;
 import com.lugg.ReactNativeConfig.ReactNativeConfigPackage;
-
-import com.lugg.ReactNativeConfig.ReactNativeConfigPackage;
 import com.babisoft.ReactNativeLocalization.ReactNativeLocalizationPackage;
 import com.facebook.react.ReactNativeHost;
 import com.facebook.react.ReactPackage;
