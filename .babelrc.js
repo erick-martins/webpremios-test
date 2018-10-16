@@ -1,6 +1,6 @@
-const target = "nestle";
-
 module.exports = function (api) {
+
+    const target = process.env.TARGET || "webpremios";
     api.cache(false);
     //console.log(process.env);
     const presets = [

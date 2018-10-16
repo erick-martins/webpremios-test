@@ -1142,7 +1142,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "#!/bin/sh\n# added by Erick Martins\nexport SCHEME=webpremios\ncp ../.babelrc.template.js ../.babelrc.js\nsed -i '' 's/SCHEME/vivo/g' \"../.babelrc.js\"\n# cp ../.babelrc.template.js ../.babelrc.js\n# sed -i '' 's/SCHEME/webpremios/g' \"../.babelrc.js\"\n\n# React Default\nexport NODE_BINARY=node\n../node_modules/react-native/scripts/react-native-xcode.sh";
+			shellScript = "#!/bin/sh\n# added by Erick Martins\nexport SCHEME=webpremios\n# cp ../.babelrc.template.js ../.babelrc.js\n# sed -i '' 's/SCHEME/webpremios/g' \"../.babelrc.js\"\n\n# React Default\nexport NODE_BINARY=node\n../node_modules/react-native/scripts/react-native-xcode.sh";
 		};
 		5AD8E067E2552B1DC673CBAF /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
@@ -1174,7 +1174,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "# added by Erick Martins\nexport SCHEME=nestle\ncp ../.babelrc.template.js ../.babelrc.js\nsed -i '' 's/SCHEME/vivo/g' \"../.babelrc.js\"\n\n# React Default\nexport NODE_BINARY=node\n../node_modules/react-native/scripts/react-native-xcode.sh";
+			shellScript = "# added by Erick Martins\nexport SCHEME=nestle\n# React Default\nexport NODE_BINARY=node\n../node_modules/react-native/scripts/react-native-xcode.sh";
 		};
 /* End PBXShellScriptBuildPhase section */
 
