@@ -96,7 +96,36 @@ def enableSeparateBuildPerCPUArchitecture = false
  */
 def enableProguardInReleaseBuilds = false
 
+
+
+
+project.logger.info('my info message')
+// METHOD TO GET CURRENT FLAVOUR NAME
+def getCurrentFlavor() {
+    Gradle gradle = getGradle()
+    String  tskReqStr = gradle.getStartParameter().getTaskRequests().toString()
+
+    Pattern pattern;
+
+    if( tskReqStr.contains( "assemble" ) )
+        pattern = Pattern.compile("assemble(\\w+)(Release|Debug)")
+    else
+        pattern = Pattern.compile("generate(\\w+)(Release|Debug)")
+
+    Matcher matcher = pattern.matcher( tskReqStr )
+
+    if( matcher.find() )
+        return matcher.group(1).toLowerCase()
+    else
+    {
+        println "NO MATCH FOUND"
+        return "";
+    }
+}
+
+
 android {
+
 
     defaultConfig {
         applicationId 'br.com.webpremios.WebPremios'
@@ -110,6 +139,7 @@ android {
     }
 
     compileSdkVersion rootProject.ext.compileSdkVersion
+
 
     def environment = 'environment'
     def product = 'product'
@@ -191,29 +221,7 @@ dependencies {
     implementation "com.facebook.react:react-native:+"  // From node_modules
 }
 
-project.logger.info('my info message')
-// METHOD TO GET CURRENT FLAVOUR NAME
-//def getCurrentFlavor() {
-//    Gradle gradle = getGradle()
-//    String  tskReqStr = gradle.getStartParameter().getTaskRequests().toString()
-//
-//    Pattern pattern;
-//
-//    if( tskReqStr.contains( "assemble" ) )
-//        pattern = Pattern.compile("assemble(\\w+)(Release|Debug)")
-//    else
-//        pattern = Pattern.compile("generate(\\w+)(Release|Debug)")
-//
-//    Matcher matcher = pattern.matcher( tskReqStr )
-//
-//    if( matcher.find() )
-//        return matcher.group(1).toLowerCase()
-//    else
-//    {
-//        println "NO MATCH FOUND"
-//        return "";
-//    }
-//}
+
 
 // Run this once to be able to run the application with BUCK
 // puts all compile dependencies into folder libs for BUCK to use
