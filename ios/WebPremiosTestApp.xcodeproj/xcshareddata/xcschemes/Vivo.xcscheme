@@ -38,8 +38,8 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "EE0048D521679D9A00F7F215"
-               BuildableName = "Vivo.app"
-               BlueprintName = "Vivo"
+               BuildableName = "Nestle.app"
+               BlueprintName = "Nestle"
                ReferencedContainer = "container:WebPremiosTestApp.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -56,8 +56,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "EE0048D521679D9A00F7F215"
-            BuildableName = "Vivo.app"
-            BlueprintName = "Vivo"
+            BuildableName = "Nestle.app"
+            BlueprintName = "Nestle"
             ReferencedContainer = "container:WebPremiosTestApp.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -79,8 +79,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "EE0048D521679D9A00F7F215"
-            BuildableName = "Vivo.app"
-            BlueprintName = "Vivo"
+            BuildableName = "Nestle.app"
+            BlueprintName = "Nestle"
             ReferencedContainer = "container:WebPremiosTestApp.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
@@ -98,8 +98,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "EE0048D521679D9A00F7F215"
-            BuildableName = "Vivo.app"
-            BlueprintName = "Vivo"
+            BuildableName = "Nestle.app"
+            BlueprintName = "Nestle"
             ReferencedContainer = "container:WebPremiosTestApp.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>

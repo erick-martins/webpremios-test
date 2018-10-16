@@ -47,10 +47,10 @@
 		EE0048E521679D9A00F7F215 /* libRCTWebSocket.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 139FDEF41B06529B00C62182 /* libRCTWebSocket.a */; };
 		EE0049672167A90F00F7F215 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = EE0049642167A90D00F7F215 /* Info.plist */; };
 		EE0049682167A90F00F7F215 /* WebPremiosAssets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EE0049652167A90F00F7F215 /* WebPremiosAssets.xcassets */; };
-		EE00496E2167A97300F7F215 /* VivoAssets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EE00496A2167A93B00F7F215 /* VivoAssets.xcassets */; };
+		EE00496E2167A97300F7F215 /* NestleAssets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EE00496A2167A93B00F7F215 /* NestleAssets.xcassets */; };
 		EE00496F2167A98300F7F215 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = EE00496B2167A93B00F7F215 /* Info.plist */; };
 		EE0049742167B11700F7F215 /* WebPremiosLaunch.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EE0049722167AEC300F7F215 /* WebPremiosLaunch.storyboard */; };
-		EE0049762167B15B00F7F215 /* VivoLaunch.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EE0049752167B15B00F7F215 /* VivoLaunch.storyboard */; };
+		EE0049762167B15B00F7F215 /* NestleLaunch.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EE0049752167B15B00F7F215 /* NestleLaunch.storyboard */; };
 		EE0049AF2167D93300F7F215 /* libReactNativeConfig.a in Frameworks */ = {isa = PBXBuildFile; fileRef = EE0049AE2167BBC700F7F215 /* libReactNativeConfig.a */; };
 		EEBED54F217518F400DC1612 /* libAppCenterReactNative.a in Frameworks */ = {isa = PBXBuildFile; fileRef = EEBED46A2175145900DC1612 /* libAppCenterReactNative.a */; };
 		EEBED550217518F400DC1612 /* libAppCenterReactNativeAnalytics.a in Frameworks */ = {isa = PBXBuildFile; fileRef = EEBED4C02175149300DC1612 /* libAppCenterReactNativeAnalytics.a */; };
@@ -394,14 +394,14 @@
 		C558BEC835D241C2B128EE34 /* ReactNativeConfig.xcodeproj */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = "wrapper.pb-project"; name = ReactNativeConfig.xcodeproj; path = "../node_modules/react-native-config/ios/ReactNativeConfig.xcodeproj"; sourceTree = "<group>"; };
 		C9FD723ADA6C420292F1DD45 /* AppCenterReactNativeAnalytics.xcodeproj */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = "wrapper.pb-project"; name = AppCenterReactNativeAnalytics.xcodeproj; path = "../node_modules/appcenter-analytics/ios/AppCenterReactNativeAnalytics.xcodeproj"; sourceTree = "<group>"; };
 		D54A194B2BC343F5935168E3 /* AppCenterReactNative.xcodeproj */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = "wrapper.pb-project"; name = AppCenterReactNative.xcodeproj; path = ../node_modules/appcenter/ios/AppCenterReactNative.xcodeproj; sourceTree = "<group>"; };
-		EE0048ED21679D9A00F7F215 /* Vivo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Vivo.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		EE0048ED21679D9A00F7F215 /* Nestle.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Nestle.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EE00491321679D9B00F7F215 /* WebPremiosTestApp copy-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "WebPremiosTestApp copy-Info.plist"; path = "/Users/erick.pinheiro/Documents/Apps/WebPrêmios Test App/WebPremiosTestApp/ios/WebPremiosTestApp copy-Info.plist"; sourceTree = "<absolute>"; };
 		EE0049642167A90D00F7F215 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		EE0049652167A90F00F7F215 /* WebPremiosAssets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = WebPremiosAssets.xcassets; sourceTree = "<group>"; };
-		EE00496A2167A93B00F7F215 /* VivoAssets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = VivoAssets.xcassets; sourceTree = "<group>"; };
+		EE00496A2167A93B00F7F215 /* NestleAssets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = NestleAssets.xcassets; sourceTree = "<group>"; };
 		EE00496B2167A93B00F7F215 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		EE0049722167AEC300F7F215 /* WebPremiosLaunch.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = WebPremiosLaunch.storyboard; sourceTree = "<group>"; };
-		EE0049752167B15B00F7F215 /* VivoLaunch.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = VivoLaunch.storyboard; sourceTree = "<group>"; };
+		EE0049752167B15B00F7F215 /* NestleLaunch.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = NestleLaunch.storyboard; sourceTree = "<group>"; };
 		F50DBFFDD3494D408690D2A9 /* libAppCenterReactNativeCrashes.a */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = archive.ar; path = libAppCenterReactNativeCrashes.a; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -680,7 +680,7 @@
 			children = (
 				13B07F961A680F5B00A75B9A /* WebPremiosTestApp.app */,
 				00E356EE1AD99517003FC87E /* WebPremiosTestAppTests.xctest */,
-				EE0048ED21679D9A00F7F215 /* Vivo.app */,
+				EE0048ED21679D9A00F7F215 /* Nestle.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -698,7 +698,7 @@
 			isa = PBXGroup;
 			children = (
 				EE0049692167A91A00F7F215 /* WebPremios */,
-				EE00496D2167A94900F7F215 /* Vivo */,
+				EE00496D2167A94900F7F215 /* Nestle */,
 			);
 			name = targets;
 			path = WebPremiosTestApp/targets;
@@ -714,14 +714,14 @@
 			path = WebPremios;
 			sourceTree = "<group>";
 		};
-		EE00496D2167A94900F7F215 /* Vivo */ = {
+		EE00496D2167A94900F7F215 /* Nestle */ = {
 			isa = PBXGroup;
 			children = (
-				EE00496A2167A93B00F7F215 /* VivoAssets.xcassets */,
+				EE00496A2167A93B00F7F215 /* NestleAssets.xcassets */,
 				EE00496B2167A93B00F7F215 /* Info.plist */,
-				EE0049752167B15B00F7F215 /* VivoLaunch.storyboard */,
+				EE0049752167B15B00F7F215 /* NestleLaunch.storyboard */,
 			);
-			path = Vivo;
+			path = Nestle;
 			sourceTree = "<group>";
 		};
 		EE0049842167BBC300F7F215 /* Recovered References */ = {
@@ -808,9 +808,9 @@
 			productReference = 13B07F961A680F5B00A75B9A /* WebPremiosTestApp.app */;
 			productType = "com.apple.product-type.application";
 		};
-		EE0048D521679D9A00F7F215 /* Vivo */ = {
+		EE0048D521679D9A00F7F215 /* Nestle */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = EE0048EA21679D9A00F7F215 /* Build configuration list for PBXNativeTarget "Vivo" */;
+			buildConfigurationList = EE0048EA21679D9A00F7F215 /* Build configuration list for PBXNativeTarget "Nestle" */;
 			buildPhases = (
 				42CC52D7E59C43AEAE18AFCB /* [CP] Check Pods Manifest.lock */,
 				EE0048D621679D9A00F7F215 /* Sources */,
@@ -822,9 +822,9 @@
 			);
 			dependencies = (
 			);
-			name = Vivo;
+			name = Nestle;
 			productName = "Hello World";
-			productReference = EE0048ED21679D9A00F7F215 /* Vivo.app */;
+			productReference = EE0048ED21679D9A00F7F215 /* Nestle.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -928,7 +928,7 @@
 			projectRoot = "";
 			targets = (
 				13B07F861A680F5B00A75B9A /* WebPremios */,
-				EE0048D521679D9A00F7F215 /* Vivo */,
+				EE0048D521679D9A00F7F215 /* Nestle */,
 				00E356ED1AD99517003FC87E /* WebPremiosTestAppTests */,
 			);
 		};
@@ -1247,8 +1247,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				EE00496E2167A97300F7F215 /* VivoAssets.xcassets in Resources */,
-				EE0049762167B15B00F7F215 /* VivoLaunch.storyboard in Resources */,
+				EE00496E2167A97300F7F215 /* NestleAssets.xcassets in Resources */,
+				EE0049762167B15B00F7F215 /* NestleLaunch.storyboard in Resources */,
 				EE00496F2167A98300F7F215 /* Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -1268,7 +1268,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "#!/bin/sh\n# added by Erick Martins\nexport SCHEME=webpremios\ncp ../.babelrc.template.js ../.babelrc.js\nsed -i '' 's/SCHEME/webpremios/g' \"../.babelrc.js\"\n\n# React Default\nexport NODE_BINARY=node\n../node_modules/react-native/scripts/react-native-xcode.sh";
+			shellScript = "#!/bin/sh\n# added by Erick Martins\nexport SCHEME=webpremios\n# cp ../.babelrc.template.js ../.babelrc.js\n# sed -i '' 's/SCHEME/webpremios/g' \"../.babelrc.js\"\n\n# React Default\nexport NODE_BINARY=node\n../node_modules/react-native/scripts/react-native-xcode.sh";
 		};
 		42CC52D7E59C43AEAE18AFCB /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
@@ -1453,6 +1453,12 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEAD_CODE_STRIPPING = NO;
 				DEVELOPMENT_TEAM = A4EQD5BTBS;
+				FRAMEWORK_SEARCH_PATHS = (
+					"\"${PODS_ROOT}/AppCenter/AppCenter-SDK-Apple/iOS\"",
+					"\"${PODS_ROOT}/AppCenterReactNativeShared/AppCenterReactNativeShared\"",
+					"\"${PODS_ROOT}/AppCenter/\"/**",
+					"$(inherited)/**",
+				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(SRCROOT)/../node_modules/react-native-config/ios/ReactNativeConfig",
@@ -1470,7 +1476,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = br.com.webpremios.WebPremiosTest;
+				PRODUCT_BUNDLE_IDENTIFIER = br.com.webpremios;
 				PRODUCT_NAME = WebPremiosTestApp;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
@@ -1483,6 +1489,12 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = A4EQD5BTBS;
+				FRAMEWORK_SEARCH_PATHS = (
+					"\"${PODS_ROOT}/AppCenter/AppCenter-SDK-Apple/iOS\"",
+					"\"${PODS_ROOT}/AppCenterReactNativeShared/AppCenterReactNativeShared\"",
+					"\"${PODS_ROOT}/AppCenter/\"/**",
+					"$(inherited)/**",
+				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(SRCROOT)/../node_modules/react-native-config/ios/ReactNativeConfig",
@@ -1500,7 +1512,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = br.com.webpremios.WebPremiosTest;
+				PRODUCT_BUNDLE_IDENTIFIER = br.com.webpremios;
 				PRODUCT_NAME = WebPremiosTestApp;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
@@ -1597,7 +1609,7 @@
 					"$(SRCROOT)/../node_modules/appcenter-analytics/ios/AppCenterReactNativeAnalytics",
 					"$(SRCROOT)/../node_modules/appcenter-crashes/ios/AppCenterReactNativeCrashes",
 				);
-				INFOPLIST_FILE = "$(SRCROOT)/WebPremiosTestApp/targets/Vivo/Info.plist";
+				INFOPLIST_FILE = "$(SRCROOT)/WebPremiosTestApp/targets/Nestle/Info.plist";
 				"INFOPLIST_OTHER_PREPROCESSOR_FLAGS[sdk=*]" = "-traditional";
 				"INFOPLIST_PREFIX_HEADER[sdk=*]" = "${BUILD_DIR}/GeneratedInfoPlistDotEnv.h";
 				INFOPLIST_PREPROCESS = YES;
@@ -1614,7 +1626,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = br.com.vivo.WebPremiosTest;
+				PRODUCT_BUNDLE_IDENTIFIER = br.com.nestle.venca;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				VERSIONING_SYSTEM = "apple-generic";
 			};
@@ -1634,7 +1646,7 @@
 					"$(SRCROOT)/../node_modules/appcenter-analytics/ios/AppCenterReactNativeAnalytics",
 					"$(SRCROOT)/../node_modules/appcenter-crashes/ios/AppCenterReactNativeCrashes",
 				);
-				INFOPLIST_FILE = "$(SRCROOT)/WebPremiosTestApp/targets/Vivo/Info.plist";
+				INFOPLIST_FILE = "$(SRCROOT)/WebPremiosTestApp/targets/Nestle/Info.plist";
 				"INFOPLIST_OTHER_PREPROCESSOR_FLAGS[sdk=*]" = "-traditional";
 				"INFOPLIST_PREFIX_HEADER[sdk=*]" = "${BUILD_DIR}/GeneratedInfoPlistDotEnv.h";
 				INFOPLIST_PREPROCESS = YES;
@@ -1651,7 +1663,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = br.com.vivo.WebPremiosTest;
+				PRODUCT_BUNDLE_IDENTIFIER = br.com.nestle.venca;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				VERSIONING_SYSTEM = "apple-generic";
 			};
@@ -1687,7 +1699,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		EE0048EA21679D9A00F7F215 /* Build configuration list for PBXNativeTarget "Vivo" */ = {
+		EE0048EA21679D9A00F7F215 /* Build configuration list for PBXNativeTarget "Nestle" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				EE0048EB21679D9A00F7F215 /* Debug */,
