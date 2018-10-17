@@ -14,8 +14,8 @@ const setup = () => {
                 icon: 'sample-icon',
                 component: <MyCustomComponent />
             };
-            // Filters should always returns the new subject
-            return [...items, newItem];
+
+            return items.concat(newItem);
         });
     
 }
