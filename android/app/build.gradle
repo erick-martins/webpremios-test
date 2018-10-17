@@ -159,11 +159,18 @@ android {
             versionCode 1
             versionName "1.0.0"
         }
+        panasonic {
+            dimension product
+            applicationId 'br.com.panasonic.webpremios'
+            versionCode 1
+            versionName "1.0.0"
+        }
     }
 
     sourceSets {
         webpremios.res.srcDirs = ['src/flavors/webpremios']
         nestle.res.srcDirs = ['src/flavors/nestle']
+        panasonic.res.srcDirs = ['src/flavors/panasonic']
     }
 
     packagingOptions {
