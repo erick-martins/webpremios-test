@@ -14,7 +14,7 @@
 			<key>orderHint</key>
 			<integer>1</integer>
 		</dict>
-		<key>Panasonic.xcscheme</key>
+		<key>Panasonic.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>2</integer>
@@ -33,6 +33,11 @@
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
 		<key>EE0048D521679D9A00F7F215</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>EE0BA9B521776AB9008EC12B</key>
 		<dict>
 			<key>primary</key>
 			<true/>

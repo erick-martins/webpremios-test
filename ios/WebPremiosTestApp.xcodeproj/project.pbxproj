@@ -906,8 +906,8 @@
 			targets = (
 				13B07F861A680F5B00A75B9A /* WebPremios */,
 				EE0048D521679D9A00F7F215 /* Nestle */,
-				00E356ED1AD99517003FC87E /* WebPremiosTestAppTests */,
 				EE0BA9B521776AB9008EC12B /* Panasonic */,
+				00E356ED1AD99517003FC87E /* WebPremiosTestAppTests */,
 			);
 		};
 /* End PBXProject section */
